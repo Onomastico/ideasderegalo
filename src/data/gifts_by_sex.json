@@ -1,0 +1,203 @@
+{
+  "male": [
+    {
+      "nombre": "Libro ilustrado 'The Watch Book Rolex'",
+      "descripcion": "Tercera edición ampliada del libro ilustrado de Gisbert L. Brunner que analiza la historia y los relojes más emblemáticos de Rolex, con imágenes y textos detallados【846316891042618†L174-L183】.",
+      "enlace": "https://www.westwing.es/the-watch-book-rolex",
+      "foto": "gift_images/retro_record_player.png",
+      "categorias": {
+        "sexo": "Hombre",
+        "edad": "Adultos",
+        "profesion": "Todas",
+        "hobbys": "Relojes, Lectura",
+        "otros": "Libro"
+      }
+    },
+    {
+      "nombre": "Mancuernas ajustables Ativafit",
+      "descripcion": "Mancuernas regulables con dial que permiten cambiar el peso en segundos; están fabricadas en acero cromado y permiten entrenar con pesos hasta 20 kg【846316891042618†L189-L200】.",
+      "enlace": "https://www.amazon.es/Ativafit-Mancuernas-Ajustables",
+      "foto": "gift_images/gift_set.png",
+      "categorias": {
+        "sexo": "Hombre",
+        "edad": "Adultos",
+        "profesion": "Deportistas, Fitness",
+        "hobbys": "Ejercicio, Gimnasio",
+        "otros": "Deporte"
+      }
+    },
+    {
+      "nombre": "Tocadiscos 1 By One",
+      "descripcion": "Reproductor de vinilos con sistema de absorción de vibraciones y altavoces incorporados; permite escuchar música desde vinilos o vía Bluetooth y ofrece un diseño vintage en madera y metal【846316891042618†L225-L237】.",
+      "enlace": "https://www.amazon.es/1ByOne-Tocadiscos-Bluetooth",
+      "foto": "gift_images/retro_record_player.png",
+      "categorias": {
+        "sexo": "Hombre",
+        "edad": "Adultos",
+        "profesion": "Melómanos",
+        "hobbys": "Música, Retro",
+        "otros": "Tecnología"
+      }
+    },
+    {
+      "nombre": "Perfume MYSLF de Yves Saint Laurent",
+      "descripcion": "Fragancia floral amaderada con notas de bergamota de Calabria, azahar de Túnez y un acorde amaderado de pachulí; el frasco es recargable para reducir la huella ecológica【846316891042618†L246-L257】.",
+      "enlace": "https://www.sephora.es/ysl-myslf",
+      "foto": "gift_images/perfume.png",
+      "categorias": {
+        "sexo": "Hombre",
+        "edad": "Adultos",
+        "profesion": "Todas",
+        "hobbys": "Fragancias",
+        "otros": "Belleza"
+      }
+    },
+    {
+      "nombre": "Auriculares inalámbricos Bowers & Wilkins PX8",
+      "descripcion": "Auriculares inalámbricos con materiales de primera calidad y tecnología de alta definición; ofrecen sonido de lujo y varios acabados elegantes【846316891042618†L265-L274】.",
+      "enlace": "https://www.amazon.es/Bowers-Wilkins-PX8",
+      "foto": "gift_images/wireless_headphones.png",
+      "categorias": {
+        "sexo": "Hombre",
+        "edad": "Adultos",
+        "profesion": "Todas",
+        "hobbys": "Música, Tecnología",
+        "otros": "Audio"
+      }
+    }
+  ],
+  "female": [
+    {
+      "nombre": "Cámara de impresión instantánea Kodak Printomatic",
+      "descripcion": "Cámara instantánea con sensor de 5 MP y lente gran angular 1:2 que imprime fotografías sin necesidad de cartuchos de tinta, ideal para capturar recuerdos al momento【661844054914265†L948-L956】.",
+      "enlace": "https://www.amazon.es/Kodak-Printomatic",
+      "foto": "gift_images/retro_record_player.png",
+      "categorias": {
+        "sexo": "Mujer",
+        "edad": "Adultos",
+        "profesion": "Creativas",
+        "hobbys": "Fotografía",
+        "otros": "Tecnología"
+      }
+    },
+    {
+      "nombre": "Plancha de pelo ghd Chronos Iced Luxe",
+      "descripcion": "Plancha de edición limitada con tecnología motion‑responsive que ofrece un deslizamiento suave y brillo; incluye placas de calentamiento rápido y modo de suspensión automático【661844054914265†L964-L976】.",
+      "enlace": "https://www.amazon.es/ghd-chronos-iced-luxe",
+      "foto": "gift_images/spa_set.png",
+      "categorias": {
+        "sexo": "Mujer",
+        "edad": "Adultos",
+        "profesion": "Moda, Belleza",
+        "hobbys": "Cuidado personal",
+        "otros": "Belleza"
+      }
+    },
+    {
+      "nombre": "Bolso shopping de poliéster reciclado Soie",
+      "descripcion": "Bolso bicolor confeccionado con poliéster reciclado por la firma Soie; combina artesanía sostenible y diseño versátil para llevar como bolso de hombro o bandolera【661844054914265†L989-L998】.",
+      "enlace": "https://www.soie.com/bolso-shopping-reciclado",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "sexo": "Mujer",
+        "edad": "Adultos",
+        "profesion": "Moda",
+        "hobbys": "Moda, Sostenibilidad",
+        "otros": "Accesorios"
+      }
+    },
+    {
+      "nombre": "Pendientes Témpanos de Papiroga",
+      "descripcion": "Pendientes ultraligeros elaborados con placas de plexiglás turquesa y verde oliva y anillas bañadas en oro de 18 k, inspirados en la efímera belleza de los témpanos【661844054914265†L1008-L1015】.",
+      "enlace": "https://www.papiroga.com/pendientes-tempanos",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "sexo": "Mujer",
+        "edad": "Adultos",
+        "profesion": "Moda, Arte",
+        "hobbys": "Accesorios, Diseño",
+        "otros": "Joyería"
+      }
+    },
+    {
+      "nombre": "Tarjeta regalo para tratamientos Royal Touch",
+      "descripcion": "Tarjeta de regalo canjeable por masajes drenantes, tratamientos faciales o productos reafirmantes en el centro Royal Touch de Fernanda Silva【661844054914265†L1044-L1055】.",
+      "enlace": "https://www.royaltouch.com/regalo",
+      "foto": "gift_images/spa_set.png",
+      "categorias": {
+        "sexo": "Mujer",
+        "edad": "Adultos",
+        "profesion": "Todas",
+        "hobbys": "Bienestar, Spa",
+        "otros": "Experiencia"
+      }
+    }
+  ],
+  "unisex": [
+    {
+      "nombre": "Tarjeta de regalo digital",
+      "descripcion": "Tarjeta electrónica que permite al destinatario elegir su propio obsequio; las tarjetas de regalo son una de las opciones más populares en fechas especiales【615819600888409†L245-L268】.",
+      "enlace": "https://www.falabella.com/falabella-cl/cms/tarjetas-regalo",
+      "foto": "gift_images/gift_card.png",
+      "categorias": {
+        "sexo": "Unisex",
+        "edad": "Todas",
+        "profesion": "Todas",
+        "hobbys": "General",
+        "otros": "Tarjeta de regalo"
+      }
+    },
+    {
+      "nombre": "Audífonos inalámbricos de alta fidelidad",
+      "descripcion": "Audífonos Bluetooth con cancelación de ruido para disfrutar música o podcasts; los audífonos inalámbricos se encuentran entre los regalos más buscados【806818789242730†L389-L424】.",
+      "enlace": "https://www.amazon.es/Audifonos-Inalambricos-Cancelacion",
+      "foto": "gift_images/wireless_headphones.png",
+      "categorias": {
+        "sexo": "Unisex",
+        "edad": "Adolescentes, Adultos",
+        "profesion": "Todas",
+        "hobbys": "Música, Podcast",
+        "otros": "Tecnología"
+      }
+    },
+    {
+      "nombre": "Reloj inteligente",
+      "descripcion": "Dispositivo wearable con seguimiento de actividad, notificaciones y aplicaciones; los relojes inteligentes figuran entre los productos más buscados en Chile【806818789242730†L389-L424】.",
+      "enlace": "https://www.amazon.es/Reloj-Inteligente-Actividad",
+      "foto": "gift_images/smartwatch.png",
+      "categorias": {
+        "sexo": "Unisex",
+        "edad": "Adolescentes, Adultos",
+        "profesion": "Todas",
+        "hobbys": "Fitness, Tecnología",
+        "otros": "Tech"
+      }
+    },
+    {
+      "nombre": "Vela aromática",
+      "descripcion": "Vela con fragancia suave para ambientar el hogar; las velas aromáticas son regalos populares en épocas festivas【806818789242730†L389-L424】.",
+      "enlace": "https://www.amazon.es/Vela-Aromatica-Decorativa",
+      "foto": "gift_images/scented_candle.png",
+      "categorias": {
+        "sexo": "Unisex",
+        "edad": "Adultos",
+        "profesion": "Todas",
+        "hobbys": "Decoración, Aromaterapia",
+        "otros": "Hogar"
+      }
+    },
+    {
+      "nombre": "Kit de terrario DIY",
+      "descripcion": "Conjunto para crear un pequeño terrario con plantas; los kits ecológicos son tendencia en regalos eco‑amigables【713867464995002†L73-L84】.",
+      "enlace": "https://www.amazon.es/Kit-Terrario-DIY",
+      "foto": "gift_images/terrarium_kit.png",
+      "categorias": {
+        "sexo": "Unisex",
+        "edad": "Adolescentes, Adultos",
+        "profesion": "Todas",
+        "hobbys": "Jardinería, Manualidades",
+        "otros": "Eco-friendly"
+      }
+    }
+  ]
+}
