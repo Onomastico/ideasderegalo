@@ -63,34 +63,44 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
       <h2>🏷️ Explora por Categorías</h2>
       <div class="categories-grid">
         <div class="category-card" data-category="Tecnología">
-          <div class="category-icon">📱</div>
+          <img src="https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Tecnología" class="category-image" />
           <h3>Tecnología</h3>
           <p>Gadgets y dispositivos innovadores</p>
         </div>
         <div class="category-card" data-category="Artesanía">
-          <div class="category-icon">🎨</div>
+          <img src="https://images.pexels.com/photos/1153213/pexels-photo-1153213.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Artesanía" class="category-image" />
           <h3>Artesanía</h3>
           <p>Creaciones únicas hechas a mano</p>
         </div>
         <div class="category-card" data-category="Deportes">
-          <div class="category-icon">⚽</div>
+          <img src="https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Deportes" class="category-image" />
           <h3>Deportes</h3>
           <p>Para los amantes del deporte</p>
         </div>
         <div class="category-card" data-category="Hogar">
-          <div class="category-icon">🏠</div>
+          <img src="https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Hogar" class="category-image" />
           <h3>Hogar</h3>
           <p>Decoración y funcionalidad</p>
         </div>
         <div class="category-card" data-category="Moda">
-          <div class="category-icon">👗</div>
+          <img src="https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Moda" class="category-image" />
           <h3>Moda</h3>
           <p>Estilo y elegancia</p>
         </div>
         <div class="category-card" data-category="Experiencias">
-          <div class="category-icon">🎪</div>
+          <img src="https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Experiencias" class="category-image" />
           <h3>Experiencias</h3>
           <p>Momentos inolvidables</p>
+        </div>
+        <div class="category-card" data-category="Personalizado">
+          <img src="https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Personalizado" class="category-image" />
+          <h3>Personalizado</h3>
+          <p>Regalos únicos impresos en 3D</p>
+        </div>
+        <div class="category-card" data-category="Música">
+          <img src="https://images.pexels.com/photos/164938/pexels-photo-164938.jpeg?auto=compress&cs=tinysrgb&w=200" alt="Música" class="category-image" />
+          <h3>Música</h3>
+          <p>Para los amantes de la música</p>
         </div>
       </div>
     </div>
@@ -371,18 +381,20 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
 
   .categories-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     gap: 30px;
   }
 
   .category-card {
     background: white;
-    padding: 40px 30px;
+    padding: 25px 20px;
     border-radius: 20px;
     text-align: center;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
     cursor: pointer;
+    position: relative;
+    overflow: hidden;
   }
 
   .category-card:hover {
@@ -390,20 +402,30 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
   }
 
-  .category-icon {
-    font-size: 4rem;
-    margin-bottom: 20px;
+  .category-image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto 15px;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+
+  .category-card:hover .category-image {
+    transform: scale(1.1);
   }
 
   .category-card h3 {
-    font-size: 1.5rem;
-    margin-bottom: 15px;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
     color: #2c3e50;
   }
 
   .category-card p {
     color: #7f8c8d;
     line-height: 1.5;
+    font-size: 0.9rem;
   }
 
   /* Gifts Section */
@@ -651,12 +673,25 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
     }
 
     .categories-grid {
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
       gap: 20px;
     }
 
     .category-card {
-      padding: 30px 20px;
+      padding: 20px 15px;
+    }
+
+    .category-image {
+      width: 50px;
+      height: 50px;
+    }
+
+    .category-card h3 {
+      font-size: 1.1rem;
+    }
+
+    .category-card p {
+      font-size: 0.8rem;
     }
   }
 </style>
