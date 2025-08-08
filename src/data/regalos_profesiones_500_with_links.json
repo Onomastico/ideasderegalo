@@ -1,0 +1,4002 @@
+[
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Estetoscopio premium",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Estetoscopio,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Estetoscopio%20premium"
+  },
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Zuecos o zapatillas anatómicas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Zuecos,o,zapatillas,anatómicas",
+    "purchase_url": "https://www.amazon.com/s?k=Zuecos%20o%20zapatillas%20anat%C3%B3micas"
+  },
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Organizador de guardia",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,guardia",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20guardia"
+  },
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Botella térmica esterilizable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica,esterilizable",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica%20esterilizable"
+  },
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Lámpara de escritorio regulable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,escritorio,regulable",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20escritorio%20regulable"
+  },
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bata o chaqueta clínica personalizada",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bata,o,chaqueta,clínica,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Bata%20o%20chaqueta%20cl%C3%ADnica%20personalizada"
+  },
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bolígrafo antibacteriano",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,antibacteriano",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20antibacteriano"
+  },
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Termo para café de turno",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,café,de,turno",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20caf%C3%A9%20de%20turno"
+  },
+  {
+    "Profesión": "Médico",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Reloj con segundero grande",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Reloj,con,segundero,grande",
+    "purchase_url": "https://www.amazon.com/s?k=Reloj%20con%20segundero%20grande"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Estetoscopio premium",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Estetoscopio,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Estetoscopio%20premium"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Zuecos o zapatillas anatómicas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Zuecos,o,zapatillas,anatómicas",
+    "purchase_url": "https://www.amazon.com/s?k=Zuecos%20o%20zapatillas%20anat%C3%B3micas"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Organizador de guardia",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,guardia",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20guardia"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Botella térmica esterilizable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica,esterilizable",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica%20esterilizable"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Lámpara de escritorio regulable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,escritorio,regulable",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20escritorio%20regulable"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bata o chaqueta clínica personalizada",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bata,o,chaqueta,clínica,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Bata%20o%20chaqueta%20cl%C3%ADnica%20personalizada"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bolígrafo antibacteriano",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,antibacteriano",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20antibacteriano"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Termo para café de turno",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,café,de,turno",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20caf%C3%A9%20de%20turno"
+  },
+  {
+    "Profesión": "Enfermero/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Reloj con segundero grande",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Reloj,con,segundero,grande",
+    "purchase_url": "https://www.amazon.com/s?k=Reloj%20con%20segundero%20grande"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Set de plumones y marcadores",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,plumones,y,marcadores",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20plumones%20y%20marcadores"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Agenda planificadora docente",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Agenda,planificadora,docente",
+    "purchase_url": "https://www.amazon.com/s?k=Agenda%20planificadora%20docente"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Carro/organizador de sala",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Carro/organizador,de,sala",
+    "purchase_url": "https://www.amazon.com/s?k=Carro/organizador%20de%20sala"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Sello motivacional personalizado",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Sello,motivacional,personalizado",
+    "purchase_url": "https://www.amazon.com/s?k=Sello%20motivacional%20personalizado"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Parlante Bluetooth para aula",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Parlante,Bluetooth,para,aula",
+    "purchase_url": "https://www.amazon.com/s?k=Parlante%20Bluetooth%20para%20aula"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Puntero/clicker para presentaciones",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Puntero/clicker,para,presentaciones",
+    "purchase_url": "https://www.amazon.com/s?k=Puntero/clicker%20para%20presentaciones"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Libros de estrategias didácticas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Libros,de,estrategias,didácticas",
+    "purchase_url": "https://www.amazon.com/s?k=Libros%20de%20estrategias%20did%C3%A1cticas"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Estuche completo de papelería",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Estuche,completo,de,papelería",
+    "purchase_url": "https://www.amazon.com/s?k=Estuche%20completo%20de%20papeler%C3%ADa"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Taza térmica personalizada",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Taza,térmica,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Taza%20t%C3%A9rmica%20personalizada"
+  },
+  {
+    "Profesión": "Profesor/a de educación básica",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Soporte lumbar para silla",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,lumbar,para,silla",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20lumbar%20para%20silla"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Set de plumones y marcadores",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,plumones,y,marcadores",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20plumones%20y%20marcadores"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Agenda planificadora docente",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Agenda,planificadora,docente",
+    "purchase_url": "https://www.amazon.com/s?k=Agenda%20planificadora%20docente"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Carro/organizador de sala",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Carro/organizador,de,sala",
+    "purchase_url": "https://www.amazon.com/s?k=Carro/organizador%20de%20sala"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Sello motivacional personalizado",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Sello,motivacional,personalizado",
+    "purchase_url": "https://www.amazon.com/s?k=Sello%20motivacional%20personalizado"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Parlante Bluetooth para aula",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Parlante,Bluetooth,para,aula",
+    "purchase_url": "https://www.amazon.com/s?k=Parlante%20Bluetooth%20para%20aula"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Puntero/clicker para presentaciones",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Puntero/clicker,para,presentaciones",
+    "purchase_url": "https://www.amazon.com/s?k=Puntero/clicker%20para%20presentaciones"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Libros de estrategias didácticas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Libros,de,estrategias,didácticas",
+    "purchase_url": "https://www.amazon.com/s?k=Libros%20de%20estrategias%20did%C3%A1cticas"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Estuche completo de papelería",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Estuche,completo,de,papelería",
+    "purchase_url": "https://www.amazon.com/s?k=Estuche%20completo%20de%20papeler%C3%ADa"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Taza térmica personalizada",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Taza,térmica,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Taza%20t%C3%A9rmica%20personalizada"
+  },
+  {
+    "Profesión": "Profesor/a de educación media",
+    "Categoría": "Educación",
+    "Regalo recomendado": "Soporte lumbar para silla",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,lumbar,para,silla",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20lumbar%20para%20silla"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Teclado mecánico",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Teclado,mecánico",
+    "purchase_url": "https://www.amazon.com/s?k=Teclado%20mec%C3%A1nico"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Mouse ergonómico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mouse,ergonómico",
+    "purchase_url": "https://www.amazon.com/s?k=Mouse%20ergon%C3%B3mico"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Monitor extra 24-27\"",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Monitor,extra,24-27\"",
+    "purchase_url": "https://www.amazon.com/s?k=Monitor%20extra%2024-27%22"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Soporte elevador para notebook",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,elevador,para,notebook",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20elevador%20para%20notebook"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Audífonos con micrófono",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Audífonos,con,micrófono",
+    "purchase_url": "https://www.amazon.com/s?k=Aud%C3%ADfonos%20con%20micr%C3%B3fono"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Webcam HD",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Webcam,HD",
+    "purchase_url": "https://www.amazon.com/s?k=Webcam%20HD"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Hub USB-C multipuerto",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Hub,USB-C,multipuerto",
+    "purchase_url": "https://www.amazon.com/s?k=Hub%20USB-C%20multipuerto"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "SSD externo",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?SSD,externo",
+    "purchase_url": "https://www.amazon.com/s?k=SSD%20externo"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Silla gamer/ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,gamer/ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20gamer/ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Ingeniero/a en informática",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Alfombrilla XXL",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Alfombrilla,XXL",
+    "purchase_url": "https://www.amazon.com/s?k=Alfombrilla%20XXL"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Teclado mecánico",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Teclado,mecánico",
+    "purchase_url": "https://www.amazon.com/s?k=Teclado%20mec%C3%A1nico"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Mouse ergonómico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mouse,ergonómico",
+    "purchase_url": "https://www.amazon.com/s?k=Mouse%20ergon%C3%B3mico"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Monitor extra 24-27\"",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Monitor,extra,24-27\"",
+    "purchase_url": "https://www.amazon.com/s?k=Monitor%20extra%2024-27%22"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Soporte elevador para notebook",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,elevador,para,notebook",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20elevador%20para%20notebook"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Audífonos con micrófono",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Audífonos,con,micrófono",
+    "purchase_url": "https://www.amazon.com/s?k=Aud%C3%ADfonos%20con%20micr%C3%B3fono"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Webcam HD",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Webcam,HD",
+    "purchase_url": "https://www.amazon.com/s?k=Webcam%20HD"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Hub USB-C multipuerto",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Hub,USB-C,multipuerto",
+    "purchase_url": "https://www.amazon.com/s?k=Hub%20USB-C%20multipuerto"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "SSD externo",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?SSD,externo",
+    "purchase_url": "https://www.amazon.com/s?k=SSD%20externo"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Silla gamer/ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,gamer/ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20gamer/ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Desarrollador/a web",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Alfombrilla XXL",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Alfombrilla,XXL",
+    "purchase_url": "https://www.amazon.com/s?k=Alfombrilla%20XXL"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Tableta digitalizadora",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tableta,digitalizadora",
+    "purchase_url": "https://www.amazon.com/s?k=Tableta%20digitalizadora"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Cuaderno de bocetos premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,de,bocetos,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20de%20bocetos%20premium"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Set de marcadores/alcohol",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,marcadores/alcohol",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20marcadores/alcohol"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Pantone/guía de color",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Pantone/guía,de,color",
+    "purchase_url": "https://www.amazon.com/s?k=Pantone/gu%C3%ADa%20de%20color"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Regla y compás profesionales",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Regla,y,compás,profesionales",
+    "purchase_url": "https://www.amazon.com/s?k=Regla%20y%20comp%C3%A1s%20profesionales"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Lámpara de mesa con brazo",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,mesa,con,brazo",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20mesa%20con%20brazo"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Mochila para portátil y tablet",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,para,portátil,y,tablet",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20para%20port%C3%A1til%20y%20tablet"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Suscripción a banco de recursos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Suscripción,a,banco,de,recursos",
+    "purchase_url": "https://www.amazon.com/s?k=Suscripci%C3%B3n%20a%20banco%20de%20recursos"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Impresora fotográfica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Impresora,fotográfica",
+    "purchase_url": "https://www.amazon.com/s?k=Impresora%20fotogr%C3%A1fica"
+  },
+  {
+    "Profesión": "Diseñador/a gráfico/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Portafolio A3",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Portafolio,A3",
+    "purchase_url": "https://www.amazon.com/s?k=Portafolio%20A3"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Estetoscopio premium",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Estetoscopio,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Estetoscopio%20premium"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Zuecos o zapatillas anatómicas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Zuecos,o,zapatillas,anatómicas",
+    "purchase_url": "https://www.amazon.com/s?k=Zuecos%20o%20zapatillas%20anat%C3%B3micas"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Organizador de guardia",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,guardia",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20guardia"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Botella térmica esterilizable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica,esterilizable",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica%20esterilizable"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Lámpara de escritorio regulable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,escritorio,regulable",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20escritorio%20regulable"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bata o chaqueta clínica personalizada",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bata,o,chaqueta,clínica,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Bata%20o%20chaqueta%20cl%C3%ADnica%20personalizada"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bolígrafo antibacteriano",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,antibacteriano",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20antibacteriano"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Termo para café de turno",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,café,de,turno",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20caf%C3%A9%20de%20turno"
+  },
+  {
+    "Profesión": "Psicólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Reloj con segundero grande",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Reloj,con,segundero,grande",
+    "purchase_url": "https://www.amazon.com/s?k=Reloj%20con%20segundero%20grande"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Portafolio de cuero",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Portafolio,de,cuero",
+    "purchase_url": "https://www.amazon.com/s?k=Portafolio%20de%20cuero"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Bolígrafo ejecutivo",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,ejecutivo",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20ejecutivo"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Maletín para documentos",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maletín,para,documentos",
+    "purchase_url": "https://www.amazon.com/s?k=Malet%C3%ADn%20para%20documentos"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Lámpara de escritorio elegante",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,escritorio,elegante",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20escritorio%20elegante"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Organizador de cables/mesa",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,cables/mesa",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20cables/mesa"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Libro de jurisprudencia actualizado",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Libro,de,jurisprudencia,actualizado",
+    "purchase_url": "https://www.amazon.com/s?k=Libro%20de%20jurisprudencia%20actualizado"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Tarjetero metálico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tarjetero,metálico",
+    "purchase_url": "https://www.amazon.com/s?k=Tarjetero%20met%C3%A1lico"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Soporte para libros de leyes",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,libros,de,leyes",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20libros%20de%20leyes"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Auriculares con cancelación de ruido",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Auriculares,con,cancelación,de,ruido",
+    "purchase_url": "https://www.amazon.com/s?k=Auriculares%20con%20cancelaci%C3%B3n%20de%20ruido"
+  },
+  {
+    "Profesión": "Abogado/a",
+    "Categoría": "Legal",
+    "Regalo recomendado": "Agenda de audiencias",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Agenda,de,audiencias",
+    "purchase_url": "https://www.amazon.com/s?k=Agenda%20de%20audiencias"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Calculadora financiera",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Calculadora,financiera",
+    "purchase_url": "https://www.amazon.com/s?k=Calculadora%20financiera"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Organizador de escritorio",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,escritorio",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20escritorio"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Lámpara de escritorio LED",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,escritorio,LED",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20escritorio%20LED"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Bolígrafo premium",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20premium"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Soporte para notebook",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,notebook",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20notebook"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Auriculares para videollamadas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Auriculares,para,videollamadas",
+    "purchase_url": "https://www.amazon.com/s?k=Auriculares%20para%20videollamadas"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Cuaderno de planificación",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,de,planificación",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20de%20planificaci%C3%B3n"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Termo para café",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,café",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20caf%C3%A9"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Contador/a",
+    "Categoría": "Finanzas",
+    "Regalo recomendado": "Hub USB",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Hub,USB",
+    "purchase_url": "https://www.amazon.com/s?k=Hub%20USB"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Agenda ejecutiva",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Agenda,ejecutiva",
+    "purchase_url": "https://www.amazon.com/s?k=Agenda%20ejecutiva"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Bolígrafo premium",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20premium"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Organizador de escritorio",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,escritorio",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20escritorio"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Auriculares Bluetooth",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Auriculares,Bluetooth",
+    "purchase_url": "https://www.amazon.com/s?k=Auriculares%20Bluetooth"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Soporte para notebook",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,notebook",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20notebook"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Base de carga inalámbrica",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Base,de,carga,inalámbrica",
+    "purchase_url": "https://www.amazon.com/s?k=Base%20de%20carga%20inal%C3%A1mbrica"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Botella térmica",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Libro de management",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Libro,de,management",
+    "purchase_url": "https://www.amazon.com/s?k=Libro%20de%20management"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Maletín ejecutivo",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maletín,ejecutivo",
+    "purchase_url": "https://www.amazon.com/s?k=Malet%C3%ADn%20ejecutivo"
+  },
+  {
+    "Profesión": "Administrador/a de empresas",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Juego de cuchillos profesionales",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Juego,de,cuchillos,profesionales",
+    "purchase_url": "https://www.amazon.com/s?k=Juego%20de%20cuchillos%20profesionales"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Afilador de cuchillos",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Afilador,de,cuchillos",
+    "purchase_url": "https://www.amazon.com/s?k=Afilador%20de%20cuchillos"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Mandil personalizado",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mandil,personalizado",
+    "purchase_url": "https://www.amazon.com/s?k=Mandil%20personalizado"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Termómetro de cocina",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termómetro,de,cocina",
+    "purchase_url": "https://www.amazon.com/s?k=Term%C3%B3metro%20de%20cocina"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Sartenes de acero/cerámica",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Sartenes,de,acero/cerámica",
+    "purchase_url": "https://www.amazon.com/s?k=Sartenes%20de%20acero/cer%C3%A1mica"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Báscula digital de cocina",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Báscula,digital,de,cocina",
+    "purchase_url": "https://www.amazon.com/s?k=B%C3%A1scula%20digital%20de%20cocina"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Pinzas y espátulas premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Pinzas,y,espátulas,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Pinzas%20y%20esp%C3%A1tulas%20premium"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Libro de recetas de autor",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Libro,de,recetas,de,autor",
+    "purchase_url": "https://www.amazon.com/s?k=Libro%20de%20recetas%20de%20autor"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Set de especias gourmet",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,especias,gourmet",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20especias%20gourmet"
+  },
+  {
+    "Profesión": "Chef",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Antiadherente para horno",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Antiadherente,para,horno",
+    "purchase_url": "https://www.amazon.com/s?k=Antiadherente%20para%20horno"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Juego de cuchillos profesionales",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Juego,de,cuchillos,profesionales",
+    "purchase_url": "https://www.amazon.com/s?k=Juego%20de%20cuchillos%20profesionales"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Afilador de cuchillos",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Afilador,de,cuchillos",
+    "purchase_url": "https://www.amazon.com/s?k=Afilador%20de%20cuchillos"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Mandil personalizado",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mandil,personalizado",
+    "purchase_url": "https://www.amazon.com/s?k=Mandil%20personalizado"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Termómetro de cocina",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termómetro,de,cocina",
+    "purchase_url": "https://www.amazon.com/s?k=Term%C3%B3metro%20de%20cocina"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Sartenes de acero/cerámica",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Sartenes,de,acero/cerámica",
+    "purchase_url": "https://www.amazon.com/s?k=Sartenes%20de%20acero/cer%C3%A1mica"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Báscula digital de cocina",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Báscula,digital,de,cocina",
+    "purchase_url": "https://www.amazon.com/s?k=B%C3%A1scula%20digital%20de%20cocina"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Pinzas y espátulas premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Pinzas,y,espátulas,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Pinzas%20y%20esp%C3%A1tulas%20premium"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Libro de recetas de autor",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Libro,de,recetas,de,autor",
+    "purchase_url": "https://www.amazon.com/s?k=Libro%20de%20recetas%20de%20autor"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Set de especias gourmet",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,especias,gourmet",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20especias%20gourmet"
+  },
+  {
+    "Profesión": "Cocinero/a",
+    "Categoría": "Gastronomía",
+    "Regalo recomendado": "Antiadherente para horno",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Antiadherente,para,horno",
+    "purchase_url": "https://www.amazon.com/s?k=Antiadherente%20para%20horno"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Tableta digitalizadora",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tableta,digitalizadora",
+    "purchase_url": "https://www.amazon.com/s?k=Tableta%20digitalizadora"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Cuaderno de bocetos premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,de,bocetos,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20de%20bocetos%20premium"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Set de marcadores/alcohol",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,marcadores/alcohol",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20marcadores/alcohol"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Pantone/guía de color",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Pantone/guía,de,color",
+    "purchase_url": "https://www.amazon.com/s?k=Pantone/gu%C3%ADa%20de%20color"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Regla y compás profesionales",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Regla,y,compás,profesionales",
+    "purchase_url": "https://www.amazon.com/s?k=Regla%20y%20comp%C3%A1s%20profesionales"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Lámpara de mesa con brazo",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,mesa,con,brazo",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20mesa%20con%20brazo"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Mochila para portátil y tablet",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,para,portátil,y,tablet",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20para%20port%C3%A1til%20y%20tablet"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Suscripción a banco de recursos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Suscripción,a,banco,de,recursos",
+    "purchase_url": "https://www.amazon.com/s?k=Suscripci%C3%B3n%20a%20banco%20de%20recursos"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Impresora fotográfica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Impresora,fotográfica",
+    "purchase_url": "https://www.amazon.com/s?k=Impresora%20fotogr%C3%A1fica"
+  },
+  {
+    "Profesión": "Fotógrafo/a",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Portafolio A3",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Portafolio,A3",
+    "purchase_url": "https://www.amazon.com/s?k=Portafolio%20A3"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Micrófono USB",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Micrófono,USB",
+    "purchase_url": "https://www.amazon.com/s?k=Micr%C3%B3fono%20USB"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Aro de luz con trípode",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Aro,de,luz,con,trípode",
+    "purchase_url": "https://www.amazon.com/s?k=Aro%20de%20luz%20con%20tr%C3%ADpode"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Soporte para celular",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,celular",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20celular"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Anillo estabilizador",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Anillo,estabilizador",
+    "purchase_url": "https://www.amazon.com/s?k=Anillo%20estabilizador"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Suscripción a herramienta social media",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Suscripción,a,herramienta,social,media",
+    "purchase_url": "https://www.amazon.com/s?k=Suscripci%C3%B3n%20a%20herramienta%20social%20media"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Audífonos on-ear",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Audífonos,on-ear",
+    "purchase_url": "https://www.amazon.com/s?k=Aud%C3%ADfonos%20on-ear"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Power bank",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Power,bank",
+    "purchase_url": "https://www.amazon.com/s?k=Power%20bank"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Agenda de contenidos",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Agenda,de,contenidos",
+    "purchase_url": "https://www.amazon.com/s?k=Agenda%20de%20contenidos"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Mini trípode",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mini,trípode",
+    "purchase_url": "https://www.amazon.com/s?k=Mini%20tr%C3%ADpode"
+  },
+  {
+    "Profesión": "Community manager",
+    "Categoría": "Marketing",
+    "Regalo recomendado": "Green screen plegable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Green,screen,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Green%20screen%20plegable"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Grabadora digital",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Grabadora,digital",
+    "purchase_url": "https://www.amazon.com/s?k=Grabadora%20digital"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Micrófono de solapa",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Micrófono,de,solapa",
+    "purchase_url": "https://www.amazon.com/s?k=Micr%C3%B3fono%20de%20solapa"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Auriculares cerrados",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Auriculares,cerrados",
+    "purchase_url": "https://www.amazon.com/s?k=Auriculares%20cerrados"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Cuaderno reportero",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,reportero",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20reportero"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Power bank",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Power,bank",
+    "purchase_url": "https://www.amazon.com/s?k=Power%20bank"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Trípode compacto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Trípode,compacto",
+    "purchase_url": "https://www.amazon.com/s?k=Tr%C3%ADpode%20compacto"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Mochila para cámara/portátil",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,para,cámara/portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20para%20c%C3%A1mara/port%C3%A1til"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Luz LED portátil",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Luz,LED,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Luz%20LED%20port%C3%A1til"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Suscripción a medio o base de datos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Suscripción,a,medio,o,base,de,datos",
+    "purchase_url": "https://www.amazon.com/s?k=Suscripci%C3%B3n%20a%20medio%20o%20base%20de%20datos"
+  },
+  {
+    "Profesión": "Periodista",
+    "Categoría": "Comunicación",
+    "Regalo recomendado": "Software de transcripción",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Software,de,transcripción",
+    "purchase_url": "https://www.amazon.com/s?k=Software%20de%20transcripci%C3%B3n"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Micrófono profesional",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Micrófono,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Micr%C3%B3fono%20profesional"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Luz de aro LED",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Luz,de,aro,LED",
+    "purchase_url": "https://www.amazon.com/s?k=Luz%20de%20aro%20LED"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Monitores de escenario (in-ear)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Monitores,de,escenario,(in-ear)",
+    "purchase_url": "https://www.amazon.com/s?k=Monitores%20de%20escenario%20%28in-ear%29"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Atril plegable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Atril,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Atril%20plegable"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Set de maquillaje de escenario",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,maquillaje,de,escenario",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20maquillaje%20de%20escenario"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Caja de transporte rígida",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Caja,de,transporte,rígida",
+    "purchase_url": "https://www.amazon.com/s?k=Caja%20de%20transporte%20r%C3%ADgida"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Grabadora portátil",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Grabadora,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Grabadora%20port%C3%A1til"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Cinta gaffer",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinta,gaffer",
+    "purchase_url": "https://www.amazon.com/s?k=Cinta%20gaffer"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Soporte para micrófono",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,micrófono",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20micr%C3%B3fono"
+  },
+  {
+    "Profesión": "Actor/actriz",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Afinador/metrónomo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Afinador/metrónomo",
+    "purchase_url": "https://www.amazon.com/s?k=Afinador/metr%C3%B3nomo"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Micrófono profesional",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Micrófono,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Micr%C3%B3fono%20profesional"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Luz de aro LED",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Luz,de,aro,LED",
+    "purchase_url": "https://www.amazon.com/s?k=Luz%20de%20aro%20LED"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Monitores de escenario (in-ear)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Monitores,de,escenario,(in-ear)",
+    "purchase_url": "https://www.amazon.com/s?k=Monitores%20de%20escenario%20%28in-ear%29"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Atril plegable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Atril,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Atril%20plegable"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Set de maquillaje de escenario",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,maquillaje,de,escenario",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20maquillaje%20de%20escenario"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Caja de transporte rígida",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Caja,de,transporte,rígida",
+    "purchase_url": "https://www.amazon.com/s?k=Caja%20de%20transporte%20r%C3%ADgida"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Grabadora portátil",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Grabadora,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Grabadora%20port%C3%A1til"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Cinta gaffer",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinta,gaffer",
+    "purchase_url": "https://www.amazon.com/s?k=Cinta%20gaffer"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Soporte para micrófono",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,micrófono",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20micr%C3%B3fono"
+  },
+  {
+    "Profesión": "Cantante",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Afinador/metrónomo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Afinador/metrónomo",
+    "purchase_url": "https://www.amazon.com/s?k=Afinador/metr%C3%B3nomo"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Micrófono profesional",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Micrófono,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Micr%C3%B3fono%20profesional"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Luz de aro LED",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Luz,de,aro,LED",
+    "purchase_url": "https://www.amazon.com/s?k=Luz%20de%20aro%20LED"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Monitores de escenario (in-ear)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Monitores,de,escenario,(in-ear)",
+    "purchase_url": "https://www.amazon.com/s?k=Monitores%20de%20escenario%20%28in-ear%29"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Atril plegable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Atril,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Atril%20plegable"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Set de maquillaje de escenario",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,maquillaje,de,escenario",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20maquillaje%20de%20escenario"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Caja de transporte rígida",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Caja,de,transporte,rígida",
+    "purchase_url": "https://www.amazon.com/s?k=Caja%20de%20transporte%20r%C3%ADgida"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Grabadora portátil",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Grabadora,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Grabadora%20port%C3%A1til"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Cinta gaffer",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinta,gaffer",
+    "purchase_url": "https://www.amazon.com/s?k=Cinta%20gaffer"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Soporte para micrófono",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,micrófono",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20micr%C3%B3fono"
+  },
+  {
+    "Profesión": "Músico/a",
+    "Categoría": "Arte y espectáculo",
+    "Regalo recomendado": "Afinador/metrónomo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Afinador/metrónomo",
+    "purchase_url": "https://www.amazon.com/s?k=Afinador/metr%C3%B3nomo"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Lápiz portaminas profesional",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lápiz,portaminas,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1piz%20portaminas%20profesional"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Cuaderno cuadriculado premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,cuadriculado,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20cuadriculado%20premium"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Regla paralela/Escala",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Regla,paralela/Escala",
+    "purchase_url": "https://www.amazon.com/s?k=Regla%20paralela/Escala"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Medidor láser de distancia",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Medidor,láser,de,distancia",
+    "purchase_url": "https://www.amazon.com/s?k=Medidor%20l%C3%A1ser%20de%20distancia"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Casco de seguridad personalizado",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Casco,de,seguridad,personalizado",
+    "purchase_url": "https://www.amazon.com/s?k=Casco%20de%20seguridad%20personalizado"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Chaleco reflectante",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Chaleco,reflectante",
+    "purchase_url": "https://www.amazon.com/s?k=Chaleco%20reflectante"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Mochila resistente",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,resistente",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20resistente"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Laptop stand robusto",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Laptop,stand,robusto",
+    "purchase_url": "https://www.amazon.com/s?k=Laptop%20stand%20robusto"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Plotter/impresiones planas (voucher)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Plotter/impresiones,planas,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=Plotter/impresiones%20planas%20%28voucher%29"
+  },
+  {
+    "Profesión": "Arquitecto/a",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Nivel láser",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Nivel,láser",
+    "purchase_url": "https://www.amazon.com/s?k=Nivel%20l%C3%A1ser"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Juego de herramientas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Juego,de,herramientas",
+    "purchase_url": "https://www.amazon.com/s?k=Juego%20de%20herramientas"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Nivel láser",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Nivel,láser",
+    "purchase_url": "https://www.amazon.com/s?k=Nivel%20l%C3%A1ser"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Casco de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Casco,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Casco%20de%20seguridad"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Guantes de trabajo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,de,trabajo",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20de%20trabajo"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Cinturón portaherramientas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinturón,portaherramientas",
+    "purchase_url": "https://www.amazon.com/s?k=Cintur%C3%B3n%20portaherramientas"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Rodilleras",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Rodilleras",
+    "purchase_url": "https://www.amazon.com/s?k=Rodilleras"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Lentes de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lentes,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Lentes%20de%20seguridad"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Taladro percutor",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Taladro,percutor",
+    "purchase_url": "https://www.amazon.com/s?k=Taladro%20percutor"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Serrucho y formones",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Serrucho,y,formones",
+    "purchase_url": "https://www.amazon.com/s?k=Serrucho%20y%20formones"
+  },
+  {
+    "Profesión": "Constructor/a civil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Maza y cincel",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maza,y,cincel",
+    "purchase_url": "https://www.amazon.com/s?k=Maza%20y%20cincel"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Juego de herramientas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Juego,de,herramientas",
+    "purchase_url": "https://www.amazon.com/s?k=Juego%20de%20herramientas"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Nivel láser",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Nivel,láser",
+    "purchase_url": "https://www.amazon.com/s?k=Nivel%20l%C3%A1ser"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Casco de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Casco,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Casco%20de%20seguridad"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Guantes de trabajo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,de,trabajo",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20de%20trabajo"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Cinturón portaherramientas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinturón,portaherramientas",
+    "purchase_url": "https://www.amazon.com/s?k=Cintur%C3%B3n%20portaherramientas"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Rodilleras",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Rodilleras",
+    "purchase_url": "https://www.amazon.com/s?k=Rodilleras"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Lentes de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lentes,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Lentes%20de%20seguridad"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Taladro percutor",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Taladro,percutor",
+    "purchase_url": "https://www.amazon.com/s?k=Taladro%20percutor"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Serrucho y formones",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Serrucho,y,formones",
+    "purchase_url": "https://www.amazon.com/s?k=Serrucho%20y%20formones"
+  },
+  {
+    "Profesión": "Maestro/a de obras",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Maza y cincel",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maza,y,cincel",
+    "purchase_url": "https://www.amazon.com/s?k=Maza%20y%20cincel"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Multímetro digital",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Multímetro,digital",
+    "purchase_url": "https://www.amazon.com/s?k=Mult%C3%ADmetro%20digital"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Destornilladores aislados",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Destornilladores,aislados",
+    "purchase_url": "https://www.amazon.com/s?k=Destornilladores%20aislados"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Tester de voltaje",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tester,de,voltaje",
+    "purchase_url": "https://www.amazon.com/s?k=Tester%20de%20voltaje"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Guantes dieléctricos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,dieléctricos",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20diel%C3%A9ctricos"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Linterna frontal",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Linterna,frontal",
+    "purchase_url": "https://www.amazon.com/s?k=Linterna%20frontal"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Organizador de puntas/brocas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,puntas/brocas",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20puntas/brocas"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Crimpadora y terminales",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Crimpadora,y,terminales",
+    "purchase_url": "https://www.amazon.com/s?k=Crimpadora%20y%20terminales"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Cinta aislante premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinta,aislante,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Cinta%20aislante%20premium"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Cámara endoscópica",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,endoscópica",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20endosc%C3%B3pica"
+  },
+  {
+    "Profesión": "Técnico/a en electricidad",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Bolso resistente a impactos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolso,resistente,a,impactos",
+    "purchase_url": "https://www.amazon.com/s?k=Bolso%20resistente%20a%20impactos"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Multímetro digital",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Multímetro,digital",
+    "purchase_url": "https://www.amazon.com/s?k=Mult%C3%ADmetro%20digital"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Destornilladores aislados",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Destornilladores,aislados",
+    "purchase_url": "https://www.amazon.com/s?k=Destornilladores%20aislados"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Tester de voltaje",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tester,de,voltaje",
+    "purchase_url": "https://www.amazon.com/s?k=Tester%20de%20voltaje"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Guantes dieléctricos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,dieléctricos",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20diel%C3%A9ctricos"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Linterna frontal",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Linterna,frontal",
+    "purchase_url": "https://www.amazon.com/s?k=Linterna%20frontal"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Organizador de puntas/brocas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,puntas/brocas",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20puntas/brocas"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Crimpadora y terminales",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Crimpadora,y,terminales",
+    "purchase_url": "https://www.amazon.com/s?k=Crimpadora%20y%20terminales"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Cinta aislante premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinta,aislante,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Cinta%20aislante%20premium"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Cámara endoscópica",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,endoscópica",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20endosc%C3%B3pica"
+  },
+  {
+    "Profesión": "Mecánico/a automotriz",
+    "Categoría": "Técnico",
+    "Regalo recomendado": "Bolso resistente a impactos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolso,resistente,a,impactos",
+    "purchase_url": "https://www.amazon.com/s?k=Bolso%20resistente%20a%20impactos"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Organizador de escritorio",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,escritorio",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20escritorio"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Auricular manos libres",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Auricular,manos,libres",
+    "purchase_url": "https://www.amazon.com/s?k=Auricular%20manos%20libres"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Tarjetero metálico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tarjetero,metálico",
+    "purchase_url": "https://www.amazon.com/s?k=Tarjetero%20met%C3%A1lico"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Planificador semanal",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Planificador,semanal",
+    "purchase_url": "https://www.amazon.com/s?k=Planificador%20semanal"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Botella térmica",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Soporte para celular",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,celular",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20celular"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Cargador para auto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cargador,para,auto",
+    "purchase_url": "https://www.amazon.com/s?k=Cargador%20para%20auto"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Bolígrafo premium",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20premium"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Mochila ejecutiva",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,ejecutiva",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20ejecutiva"
+  },
+  {
+    "Profesión": "Vendedor/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Paraguas compacto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Paraguas,compacto",
+    "purchase_url": "https://www.amazon.com/s?k=Paraguas%20compacto"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Organizador de escritorio",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,escritorio",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20escritorio"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Auricular manos libres",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Auricular,manos,libres",
+    "purchase_url": "https://www.amazon.com/s?k=Auricular%20manos%20libres"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Tarjetero metálico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tarjetero,metálico",
+    "purchase_url": "https://www.amazon.com/s?k=Tarjetero%20met%C3%A1lico"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Planificador semanal",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Planificador,semanal",
+    "purchase_url": "https://www.amazon.com/s?k=Planificador%20semanal"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Botella térmica",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Soporte para celular",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,celular",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20celular"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Cargador para auto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cargador,para,auto",
+    "purchase_url": "https://www.amazon.com/s?k=Cargador%20para%20auto"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Bolígrafo premium",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20premium"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Mochila ejecutiva",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,ejecutiva",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20ejecutiva"
+  },
+  {
+    "Profesión": "Cajero/a",
+    "Categoría": "Ventas",
+    "Regalo recomendado": "Paraguas compacto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Paraguas,compacto",
+    "purchase_url": "https://www.amazon.com/s?k=Paraguas%20compacto"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Linterna recargable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Linterna,recargable",
+    "purchase_url": "https://www.amazon.com/s?k=Linterna%20recargable"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Chaleco reflectante",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Chaleco,reflectante",
+    "purchase_url": "https://www.amazon.com/s?k=Chaleco%20reflectante"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Guantes tácticos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,tácticos",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20t%C3%A1cticos"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Radio portátil",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Radio,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Radio%20port%C3%A1til"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Botella térmica robusta",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica,robusta",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica%20robusta"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Cinturón multiusos",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinturón,multiusos",
+    "purchase_url": "https://www.amazon.com/s?k=Cintur%C3%B3n%20multiusos"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Gorra táctica",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Gorra,táctica",
+    "purchase_url": "https://www.amazon.com/s?k=Gorra%20t%C3%A1ctica"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Rodilleras",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Rodilleras",
+    "purchase_url": "https://www.amazon.com/s?k=Rodilleras"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Cámara corporal (voucher)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,corporal,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20corporal%20%28voucher%29"
+  },
+  {
+    "Profesión": "Guardia de seguridad",
+    "Categoría": "Seguridad",
+    "Regalo recomendado": "Kit de primeros auxilios",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,primeros,auxilios",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20primeros%20auxilios"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Mochila térmica",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,térmica",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20t%C3%A9rmica"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Soporte para celular",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,celular",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20celular"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Impermeable plegable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Impermeable,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Impermeable%20plegable"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Guantes antideslizantes",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,antideslizantes",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20antideslizantes"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Power bank",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Power,bank",
+    "purchase_url": "https://www.amazon.com/s?k=Power%20bank"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Luces LED para bici/moto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Luces,LED,para,bici/moto",
+    "purchase_url": "https://www.amazon.com/s?k=Luces%20LED%20para%20bici/moto"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Candado reforzado",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Candado,reforzado",
+    "purchase_url": "https://www.amazon.com/s?k=Candado%20reforzado"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Bolso de mensajero",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolso,de,mensajero",
+    "purchase_url": "https://www.amazon.com/s?k=Bolso%20de%20mensajero"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Botella térmica",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica"
+  },
+  {
+    "Profesión": "Repartidor/a",
+    "Categoría": "Logística",
+    "Regalo recomendado": "Rodilleras",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Rodilleras",
+    "purchase_url": "https://www.amazon.com/s?k=Rodilleras"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Soporte magnético para celular",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,magnético,para,celular",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20magn%C3%A9tico%20para%20celular"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Cargador rápido para auto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cargador,rápido,para,auto",
+    "purchase_url": "https://www.amazon.com/s?k=Cargador%20r%C3%A1pido%20para%20auto"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Organizador de asiento",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,asiento",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20asiento"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Kit limpieza interior",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,limpieza,interior",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20limpieza%20interior"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Cojín lumbar",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cojín,lumbar",
+    "purchase_url": "https://www.amazon.com/s?k=Coj%C3%ADn%20lumbar"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Cámara dash cam",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,dash,cam",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20dash%20cam"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Termo para cabina",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,cabina",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20cabina"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Parasol plegable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Parasol,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Parasol%20plegable"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Linterna recargable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Linterna,recargable",
+    "purchase_url": "https://www.amazon.com/s?k=Linterna%20recargable"
+  },
+  {
+    "Profesión": "Chofer profesional",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Kit de emergencia",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,emergencia",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20emergencia"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Soporte magnético para celular",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,magnético,para,celular",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20magn%C3%A9tico%20para%20celular"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Cargador rápido para auto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cargador,rápido,para,auto",
+    "purchase_url": "https://www.amazon.com/s?k=Cargador%20r%C3%A1pido%20para%20auto"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Organizador de asiento",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,asiento",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20asiento"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Kit limpieza interior",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,limpieza,interior",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20limpieza%20interior"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Cojín lumbar",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cojín,lumbar",
+    "purchase_url": "https://www.amazon.com/s?k=Coj%C3%ADn%20lumbar"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Cámara dash cam",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,dash,cam",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20dash%20cam"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Termo para cabina",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,cabina",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20cabina"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Parasol plegable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Parasol,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Parasol%20plegable"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Linterna recargable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Linterna,recargable",
+    "purchase_url": "https://www.amazon.com/s?k=Linterna%20recargable"
+  },
+  {
+    "Profesión": "Piloto/a",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Kit de emergencia",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,emergencia",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20emergencia"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Soporte magnético para celular",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,magnético,para,celular",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20magn%C3%A9tico%20para%20celular"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Cargador rápido para auto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cargador,rápido,para,auto",
+    "purchase_url": "https://www.amazon.com/s?k=Cargador%20r%C3%A1pido%20para%20auto"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Organizador de asiento",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,asiento",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20asiento"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Kit limpieza interior",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,limpieza,interior",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20limpieza%20interior"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Cojín lumbar",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cojín,lumbar",
+    "purchase_url": "https://www.amazon.com/s?k=Coj%C3%ADn%20lumbar"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Cámara dash cam",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,dash,cam",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20dash%20cam"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Termo para cabina",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,cabina",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20cabina"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Parasol plegable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Parasol,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Parasol%20plegable"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Linterna recargable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Linterna,recargable",
+    "purchase_url": "https://www.amazon.com/s?k=Linterna%20recargable"
+  },
+  {
+    "Profesión": "Auxiliar de vuelo",
+    "Categoría": "Transporte",
+    "Regalo recomendado": "Kit de emergencia",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,emergencia",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20emergencia"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Guía de viaje ilustrada",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guía,de,viaje,ilustrada",
+    "purchase_url": "https://www.amazon.com/s?k=Gu%C3%ADa%20de%20viaje%20ilustrada"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Mochila compacta",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,compacta",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20compacta"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Botella filtrante",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,filtrante",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20filtrante"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Toalla de secado rápido",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Toalla,de,secado,rápido",
+    "purchase_url": "https://www.amazon.com/s?k=Toalla%20de%20secado%20r%C3%A1pido"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Candado TSA",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Candado,TSA",
+    "purchase_url": "https://www.amazon.com/s?k=Candado%20TSA"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Organizadores de maleta",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizadores,de,maleta",
+    "purchase_url": "https://www.amazon.com/s?k=Organizadores%20de%20maleta"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Cámara compacta",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,compacta",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20compacta"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Sombrero/visera UV",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Sombrero/visera,UV",
+    "purchase_url": "https://www.amazon.com/s?k=Sombrero/visera%20UV"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Batería portátil",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Batería,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Bater%C3%ADa%20port%C3%A1til"
+  },
+  {
+    "Profesión": "Guía turístico/a",
+    "Categoría": "Turismo",
+    "Regalo recomendado": "Tarjeta SIM internacional (voucher)",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tarjeta,SIM,internacional,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=Tarjeta%20SIM%20internacional%20%28voucher%29"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Agenda ejecutiva",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Agenda,ejecutiva",
+    "purchase_url": "https://www.amazon.com/s?k=Agenda%20ejecutiva"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Bolígrafo premium",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20premium"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Organizador de escritorio",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,escritorio",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20escritorio"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Auriculares Bluetooth",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Auriculares,Bluetooth",
+    "purchase_url": "https://www.amazon.com/s?k=Auriculares%20Bluetooth"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Soporte para notebook",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,notebook",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20notebook"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Base de carga inalámbrica",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Base,de,carga,inalámbrica",
+    "purchase_url": "https://www.amazon.com/s?k=Base%20de%20carga%20inal%C3%A1mbrica"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Botella térmica",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Libro de management",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Libro,de,management",
+    "purchase_url": "https://www.amazon.com/s?k=Libro%20de%20management"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Maletín ejecutivo",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maletín,ejecutivo",
+    "purchase_url": "https://www.amazon.com/s?k=Malet%C3%ADn%20ejecutivo"
+  },
+  {
+    "Profesión": "Recepcionista",
+    "Categoría": "Administración",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Estetoscopio premium",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Estetoscopio,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Estetoscopio%20premium"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Zuecos o zapatillas anatómicas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Zuecos,o,zapatillas,anatómicas",
+    "purchase_url": "https://www.amazon.com/s?k=Zuecos%20o%20zapatillas%20anat%C3%B3micas"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Organizador de guardia",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,guardia",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20guardia"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Botella térmica esterilizable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica,esterilizable",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica%20esterilizable"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Lámpara de escritorio regulable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,escritorio,regulable",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20escritorio%20regulable"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bata o chaqueta clínica personalizada",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bata,o,chaqueta,clínica,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Bata%20o%20chaqueta%20cl%C3%ADnica%20personalizada"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bolígrafo antibacteriano",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,antibacteriano",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20antibacteriano"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Termo para café de turno",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,café,de,turno",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20caf%C3%A9%20de%20turno"
+  },
+  {
+    "Profesión": "Terapeuta ocupacional",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Reloj con segundero grande",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Reloj,con,segundero,grande",
+    "purchase_url": "https://www.amazon.com/s?k=Reloj%20con%20segundero%20grande"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Estetoscopio premium",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Estetoscopio,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Estetoscopio%20premium"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Zuecos o zapatillas anatómicas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Zuecos,o,zapatillas,anatómicas",
+    "purchase_url": "https://www.amazon.com/s?k=Zuecos%20o%20zapatillas%20anat%C3%B3micas"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Organizador de guardia",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,guardia",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20guardia"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Botella térmica esterilizable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica,esterilizable",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica%20esterilizable"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Lámpara de escritorio regulable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,escritorio,regulable",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20escritorio%20regulable"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bata o chaqueta clínica personalizada",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bata,o,chaqueta,clínica,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Bata%20o%20chaqueta%20cl%C3%ADnica%20personalizada"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bolígrafo antibacteriano",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,antibacteriano",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20antibacteriano"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Termo para café de turno",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,café,de,turno",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20caf%C3%A9%20de%20turno"
+  },
+  {
+    "Profesión": "Kinesiólogo/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Reloj con segundero grande",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Reloj,con,segundero,grande",
+    "purchase_url": "https://www.amazon.com/s?k=Reloj%20con%20segundero%20grande"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Cronómetro profesional",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cronómetro,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Cron%C3%B3metro%20profesional"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Bandas de resistencia",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bandas,de,resistencia",
+    "purchase_url": "https://www.amazon.com/s?k=Bandas%20de%20resistencia"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Esterilla de entrenamiento",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Esterilla,de,entrenamiento",
+    "purchase_url": "https://www.amazon.com/s?k=Esterilla%20de%20entrenamiento"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Botella deportiva",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,deportiva",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20deportiva"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Mochila gym",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,gym",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20gym"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Reloj deportivo con GPS",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Reloj,deportivo,con,GPS",
+    "purchase_url": "https://www.amazon.com/s?k=Reloj%20deportivo%20con%20GPS"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Cuerda de saltar",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuerda,de,saltar",
+    "purchase_url": "https://www.amazon.com/s?k=Cuerda%20de%20saltar"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Rodillo de masaje",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Rodillo,de,masaje",
+    "purchase_url": "https://www.amazon.com/s?k=Rodillo%20de%20masaje"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Set conos de entrenamiento",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,conos,de,entrenamiento",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20conos%20de%20entrenamiento"
+  },
+  {
+    "Profesión": "Entrenador/a personal",
+    "Categoría": "Deportes",
+    "Regalo recomendado": "Báscula inteligente",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Báscula,inteligente",
+    "purchase_url": "https://www.amazon.com/s?k=B%C3%A1scula%20inteligente"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Estetoscopio premium",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Estetoscopio,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Estetoscopio%20premium"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Zuecos o zapatillas anatómicas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Zuecos,o,zapatillas,anatómicas",
+    "purchase_url": "https://www.amazon.com/s?k=Zuecos%20o%20zapatillas%20anat%C3%B3micas"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Organizador de guardia",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,guardia",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20guardia"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Botella térmica esterilizable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica,esterilizable",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica%20esterilizable"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Lámpara de escritorio regulable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,escritorio,regulable",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20escritorio%20regulable"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bata o chaqueta clínica personalizada",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bata,o,chaqueta,clínica,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Bata%20o%20chaqueta%20cl%C3%ADnica%20personalizada"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bolígrafo antibacteriano",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,antibacteriano",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20antibacteriano"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Termo para café de turno",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,café,de,turno",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20caf%C3%A9%20de%20turno"
+  },
+  {
+    "Profesión": "Nutricionista",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Reloj con segundero grande",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Reloj,con,segundero,grande",
+    "purchase_url": "https://www.amazon.com/s?k=Reloj%20con%20segundero%20grande"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Microscopio de escritorio",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Microscopio,de,escritorio",
+    "purchase_url": "https://www.amazon.com/s?k=Microscopio%20de%20escritorio"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Pipeteador manual",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Pipeteador,manual",
+    "purchase_url": "https://www.amazon.com/s?k=Pipeteador%20manual"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Bata de laboratorio personalizada",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bata,de,laboratorio,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Bata%20de%20laboratorio%20personalizada"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Gafas de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Gafas,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Gafas%20de%20seguridad"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Marcadores para vidrio/lab",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Marcadores,para,vidrio/lab",
+    "purchase_url": "https://www.amazon.com/s?k=Marcadores%20para%20vidrio/lab"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Guantes de nitrilo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,de,nitrilo",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20de%20nitrilo"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Cuaderno de laboratorio",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,de,laboratorio",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20de%20laboratorio"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Cronómetro/Timer magnético",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cronómetro/Timer,magnético",
+    "purchase_url": "https://www.amazon.com/s?k=Cron%C3%B3metro/Timer%20magn%C3%A9tico"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Centrífuga mini (voucher)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Centrífuga,mini,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=Centr%C3%ADfuga%20mini%20%28voucher%29"
+  },
+  {
+    "Profesión": "Científico/a",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Soporte para tubos",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,tubos",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20tubos"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Teclado mecánico",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Teclado,mecánico",
+    "purchase_url": "https://www.amazon.com/s?k=Teclado%20mec%C3%A1nico"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Mouse ergonómico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mouse,ergonómico",
+    "purchase_url": "https://www.amazon.com/s?k=Mouse%20ergon%C3%B3mico"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Monitor extra 24-27\"",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Monitor,extra,24-27\"",
+    "purchase_url": "https://www.amazon.com/s?k=Monitor%20extra%2024-27%22"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Soporte elevador para notebook",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,elevador,para,notebook",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20elevador%20para%20notebook"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Audífonos con micrófono",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Audífonos,con,micrófono",
+    "purchase_url": "https://www.amazon.com/s?k=Aud%C3%ADfonos%20con%20micr%C3%B3fono"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Webcam HD",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Webcam,HD",
+    "purchase_url": "https://www.amazon.com/s?k=Webcam%20HD"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Hub USB-C multipuerto",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Hub,USB-C,multipuerto",
+    "purchase_url": "https://www.amazon.com/s?k=Hub%20USB-C%20multipuerto"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "SSD externo",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?SSD,externo",
+    "purchase_url": "https://www.amazon.com/s?k=SSD%20externo"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Silla gamer/ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,gamer/ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20gamer/ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Investigador/a de datos",
+    "Categoría": "Tecnología",
+    "Regalo recomendado": "Alfombrilla XXL",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Alfombrilla,XXL",
+    "purchase_url": "https://www.amazon.com/s?k=Alfombrilla%20XXL"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Microscopio de escritorio",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Microscopio,de,escritorio",
+    "purchase_url": "https://www.amazon.com/s?k=Microscopio%20de%20escritorio"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Pipeteador manual",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Pipeteador,manual",
+    "purchase_url": "https://www.amazon.com/s?k=Pipeteador%20manual"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Bata de laboratorio personalizada",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bata,de,laboratorio,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Bata%20de%20laboratorio%20personalizada"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Gafas de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Gafas,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Gafas%20de%20seguridad"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Marcadores para vidrio/lab",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Marcadores,para,vidrio/lab",
+    "purchase_url": "https://www.amazon.com/s?k=Marcadores%20para%20vidrio/lab"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Guantes de nitrilo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,de,nitrilo",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20de%20nitrilo"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Cuaderno de laboratorio",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,de,laboratorio",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20de%20laboratorio"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Cronómetro/Timer magnético",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cronómetro/Timer,magnético",
+    "purchase_url": "https://www.amazon.com/s?k=Cron%C3%B3metro/Timer%20magn%C3%A9tico"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Centrífuga mini (voucher)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Centrífuga,mini,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=Centr%C3%ADfuga%20mini%20%28voucher%29"
+  },
+  {
+    "Profesión": "Técnico/a en laboratorio",
+    "Categoría": "Ciencia",
+    "Regalo recomendado": "Soporte para tubos",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Soporte,para,tubos",
+    "purchase_url": "https://www.amazon.com/s?k=Soporte%20para%20tubos"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Estetoscopio premium",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Estetoscopio,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Estetoscopio%20premium"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Zuecos o zapatillas anatómicas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Zuecos,o,zapatillas,anatómicas",
+    "purchase_url": "https://www.amazon.com/s?k=Zuecos%20o%20zapatillas%20anat%C3%B3micas"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Silla ergonómica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Silla,ergonómica",
+    "purchase_url": "https://www.amazon.com/s?k=Silla%20ergon%C3%B3mica"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Organizador de guardia",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,de,guardia",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20de%20guardia"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Botella térmica esterilizable",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica,esterilizable",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica%20esterilizable"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Lámpara de escritorio regulable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,escritorio,regulable",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20escritorio%20regulable"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bata o chaqueta clínica personalizada",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bata,o,chaqueta,clínica,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Bata%20o%20chaqueta%20cl%C3%ADnica%20personalizada"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Bolígrafo antibacteriano",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bolígrafo,antibacteriano",
+    "purchase_url": "https://www.amazon.com/s?k=Bol%C3%ADgrafo%20antibacteriano"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Termo para café de turno",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Termo,para,café,de,turno",
+    "purchase_url": "https://www.amazon.com/s?k=Termo%20para%20caf%C3%A9%20de%20turno"
+  },
+  {
+    "Profesión": "Veterinario/a",
+    "Categoría": "Salud",
+    "Regalo recomendado": "Reloj con segundero grande",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Reloj,con,segundero,grande",
+    "purchase_url": "https://www.amazon.com/s?k=Reloj%20con%20segundero%20grande"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Secador profesional",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Secador,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Secador%20profesional"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Plancha de pelo profesional",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Plancha,de,pelo,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Plancha%20de%20pelo%20profesional"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Tijeras de precisión",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tijeras,de,precisión",
+    "purchase_url": "https://www.amazon.com/s?k=Tijeras%20de%20precisi%C3%B3n"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Set de brochas premium",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,brochas,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20brochas%20premium"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Delantal resistente al tinte",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Delantal,resistente,al,tinte",
+    "purchase_url": "https://www.amazon.com/s?k=Delantal%20resistente%20al%20tinte"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Carro organizador de salón",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Carro,organizador,de,salón",
+    "purchase_url": "https://www.amazon.com/s?k=Carro%20organizador%20de%20sal%C3%B3n"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Espejo con luz",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Espejo,con,luz",
+    "purchase_url": "https://www.amazon.com/s?k=Espejo%20con%20luz"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Toallas de microfibra",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Toallas,de,microfibra",
+    "purchase_url": "https://www.amazon.com/s?k=Toallas%20de%20microfibra"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Organizador acrílico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,acrílico",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20acr%C3%ADlico"
+  },
+  {
+    "Profesión": "Peluquero/a",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Esterilizador UV (voucher)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Esterilizador,UV,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=Esterilizador%20UV%20%28voucher%29"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Secador profesional",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Secador,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Secador%20profesional"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Plancha de pelo profesional",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Plancha,de,pelo,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Plancha%20de%20pelo%20profesional"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Tijeras de precisión",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tijeras,de,precisión",
+    "purchase_url": "https://www.amazon.com/s?k=Tijeras%20de%20precisi%C3%B3n"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Set de brochas premium",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,brochas,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20brochas%20premium"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Delantal resistente al tinte",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Delantal,resistente,al,tinte",
+    "purchase_url": "https://www.amazon.com/s?k=Delantal%20resistente%20al%20tinte"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Carro organizador de salón",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Carro,organizador,de,salón",
+    "purchase_url": "https://www.amazon.com/s?k=Carro%20organizador%20de%20sal%C3%B3n"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Espejo con luz",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Espejo,con,luz",
+    "purchase_url": "https://www.amazon.com/s?k=Espejo%20con%20luz"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Toallas de microfibra",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Toallas,de,microfibra",
+    "purchase_url": "https://www.amazon.com/s?k=Toallas%20de%20microfibra"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Organizador acrílico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,acrílico",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20acr%C3%ADlico"
+  },
+  {
+    "Profesión": "Estilista",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Esterilizador UV (voucher)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Esterilizador,UV,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=Esterilizador%20UV%20%28voucher%29"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Secador profesional",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Secador,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Secador%20profesional"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Plancha de pelo profesional",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Plancha,de,pelo,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Plancha%20de%20pelo%20profesional"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Tijeras de precisión",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tijeras,de,precisión",
+    "purchase_url": "https://www.amazon.com/s?k=Tijeras%20de%20precisi%C3%B3n"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Set de brochas premium",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,brochas,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20brochas%20premium"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Delantal resistente al tinte",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Delantal,resistente,al,tinte",
+    "purchase_url": "https://www.amazon.com/s?k=Delantal%20resistente%20al%20tinte"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Carro organizador de salón",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Carro,organizador,de,salón",
+    "purchase_url": "https://www.amazon.com/s?k=Carro%20organizador%20de%20sal%C3%B3n"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Espejo con luz",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Espejo,con,luz",
+    "purchase_url": "https://www.amazon.com/s?k=Espejo%20con%20luz"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Toallas de microfibra",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Toallas,de,microfibra",
+    "purchase_url": "https://www.amazon.com/s?k=Toallas%20de%20microfibra"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Organizador acrílico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Organizador,acrílico",
+    "purchase_url": "https://www.amazon.com/s?k=Organizador%20acr%C3%ADlico"
+  },
+  {
+    "Profesión": "Maquillador/a profesional",
+    "Categoría": "Belleza",
+    "Regalo recomendado": "Esterilizador UV (voucher)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Esterilizador,UV,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=Esterilizador%20UV%20%28voucher%29"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Juego de herramientas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Juego,de,herramientas",
+    "purchase_url": "https://www.amazon.com/s?k=Juego%20de%20herramientas"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Nivel láser",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Nivel,láser",
+    "purchase_url": "https://www.amazon.com/s?k=Nivel%20l%C3%A1ser"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Casco de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Casco,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Casco%20de%20seguridad"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Guantes de trabajo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,de,trabajo",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20de%20trabajo"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Cinturón portaherramientas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinturón,portaherramientas",
+    "purchase_url": "https://www.amazon.com/s?k=Cintur%C3%B3n%20portaherramientas"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Rodilleras",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Rodilleras",
+    "purchase_url": "https://www.amazon.com/s?k=Rodilleras"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Lentes de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lentes,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Lentes%20de%20seguridad"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Taladro percutor",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Taladro,percutor",
+    "purchase_url": "https://www.amazon.com/s?k=Taladro%20percutor"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Serrucho y formones",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Serrucho,y,formones",
+    "purchase_url": "https://www.amazon.com/s?k=Serrucho%20y%20formones"
+  },
+  {
+    "Profesión": "Carpintero/a",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Maza y cincel",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maza,y,cincel",
+    "purchase_url": "https://www.amazon.com/s?k=Maza%20y%20cincel"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Juego de herramientas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Juego,de,herramientas",
+    "purchase_url": "https://www.amazon.com/s?k=Juego%20de%20herramientas"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Nivel láser",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Nivel,láser",
+    "purchase_url": "https://www.amazon.com/s?k=Nivel%20l%C3%A1ser"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Casco de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Casco,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Casco%20de%20seguridad"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Guantes de trabajo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,de,trabajo",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20de%20trabajo"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Cinturón portaherramientas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cinturón,portaherramientas",
+    "purchase_url": "https://www.amazon.com/s?k=Cintur%C3%B3n%20portaherramientas"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Rodilleras",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Rodilleras",
+    "purchase_url": "https://www.amazon.com/s?k=Rodilleras"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Lentes de seguridad",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lentes,de,seguridad",
+    "purchase_url": "https://www.amazon.com/s?k=Lentes%20de%20seguridad"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Taladro percutor",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Taladro,percutor",
+    "purchase_url": "https://www.amazon.com/s?k=Taladro%20percutor"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Serrucho y formones",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Serrucho,y,formones",
+    "purchase_url": "https://www.amazon.com/s?k=Serrucho%20y%20formones"
+  },
+  {
+    "Profesión": "Albañil",
+    "Categoría": "Construcción",
+    "Regalo recomendado": "Maza y cincel",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maza,y,cincel",
+    "purchase_url": "https://www.amazon.com/s?k=Maza%20y%20cincel"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Set herramientas de jardín",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,herramientas,de,jardín",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20herramientas%20de%20jard%C3%ADn"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Guantes resistentes",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,resistentes",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20resistentes"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Tijeras de podar",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tijeras,de,podar",
+    "purchase_url": "https://www.amazon.com/s?k=Tijeras%20de%20podar"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Regadera metálica",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Regadera,metálica",
+    "purchase_url": "https://www.amazon.com/s?k=Regadera%20met%C3%A1lica"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Manguera extensible",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Manguera,extensible",
+    "purchase_url": "https://www.amazon.com/s?k=Manguera%20extensible"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Macetas decorativas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Macetas,decorativas",
+    "purchase_url": "https://www.amazon.com/s?k=Macetas%20decorativas"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Sustrato y fertilizante",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Sustrato,y,fertilizante",
+    "purchase_url": "https://www.amazon.com/s?k=Sustrato%20y%20fertilizante"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Aspersor programable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Aspersor,programable",
+    "purchase_url": "https://www.amazon.com/s?k=Aspersor%20programable"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Rodilleras jardín",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Rodilleras,jardín",
+    "purchase_url": "https://www.amazon.com/s?k=Rodilleras%20jard%C3%ADn"
+  },
+  {
+    "Profesión": "Jardinero/a",
+    "Categoría": "Jardinería",
+    "Regalo recomendado": "Kit mini huerto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,mini,huerto",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20mini%20huerto"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "Guantes resistentes",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guantes,resistentes",
+    "purchase_url": "https://www.amazon.com/s?k=Guantes%20resistentes"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "Sombrero ala ancha UV",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Sombrero,ala,ancha,UV",
+    "purchase_url": "https://www.amazon.com/s?k=Sombrero%20ala%20ancha%20UV"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "Botas de goma",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botas,de,goma",
+    "purchase_url": "https://www.amazon.com/s?k=Botas%20de%20goma"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "Cuchillo/cortaplumas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuchillo/cortaplumas",
+    "purchase_url": "https://www.amazon.com/s?k=Cuchillo/cortaplumas"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "Mochila fumigadora (manual)",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,fumigadora,(manual)",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20fumigadora%20%28manual%29"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "Bidón térmico",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bidón,térmico",
+    "purchase_url": "https://www.amazon.com/s?k=Bid%C3%B3n%20t%C3%A9rmico"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "Linterna frontal",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Linterna,frontal",
+    "purchase_url": "https://www.amazon.com/s?k=Linterna%20frontal"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "Lona multiusos",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lona,multiusos",
+    "purchase_url": "https://www.amazon.com/s?k=Lona%20multiusos"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "Kit de reparación rápida",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,reparación,rápida",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20reparaci%C3%B3n%20r%C3%A1pida"
+  },
+  {
+    "Profesión": "Agricultor/a",
+    "Categoría": "Agricultura",
+    "Regalo recomendado": "GPS de mano (voucher)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?GPS,de,mano,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=GPS%20de%20mano%20%28voucher%29"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Lápiz portaminas profesional",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lápiz,portaminas,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1piz%20portaminas%20profesional"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Cuaderno cuadriculado premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,cuadriculado,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20cuadriculado%20premium"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Regla paralela/Escala",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Regla,paralela/Escala",
+    "purchase_url": "https://www.amazon.com/s?k=Regla%20paralela/Escala"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Medidor láser de distancia",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Medidor,láser,de,distancia",
+    "purchase_url": "https://www.amazon.com/s?k=Medidor%20l%C3%A1ser%20de%20distancia"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Casco de seguridad personalizado",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Casco,de,seguridad,personalizado",
+    "purchase_url": "https://www.amazon.com/s?k=Casco%20de%20seguridad%20personalizado"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Chaleco reflectante",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Chaleco,reflectante",
+    "purchase_url": "https://www.amazon.com/s?k=Chaleco%20reflectante"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Mochila resistente",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,resistente",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20resistente"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Laptop stand robusto",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Laptop,stand,robusto",
+    "purchase_url": "https://www.amazon.com/s?k=Laptop%20stand%20robusto"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Plotter/impresiones planas (voucher)",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Plotter/impresiones,planas,(voucher)",
+    "purchase_url": "https://www.amazon.com/s?k=Plotter/impresiones%20planas%20%28voucher%29"
+  },
+  {
+    "Profesión": "Ingeniero/a civil",
+    "Categoría": "Ingeniería y diseño",
+    "Regalo recomendado": "Nivel láser",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Nivel,láser",
+    "purchase_url": "https://www.amazon.com/s?k=Nivel%20l%C3%A1ser"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Tableta digitalizadora",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tableta,digitalizadora",
+    "purchase_url": "https://www.amazon.com/s?k=Tableta%20digitalizadora"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Cuaderno de bocetos premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,de,bocetos,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20de%20bocetos%20premium"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Set de marcadores/alcohol",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,marcadores/alcohol",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20marcadores/alcohol"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Pantone/guía de color",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Pantone/guía,de,color",
+    "purchase_url": "https://www.amazon.com/s?k=Pantone/gu%C3%ADa%20de%20color"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Regla y compás profesionales",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Regla,y,compás,profesionales",
+    "purchase_url": "https://www.amazon.com/s?k=Regla%20y%20comp%C3%A1s%20profesionales"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Lámpara de mesa con brazo",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,de,mesa,con,brazo",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20de%20mesa%20con%20brazo"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Mochila para portátil y tablet",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,para,portátil,y,tablet",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20para%20port%C3%A1til%20y%20tablet"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Suscripción a banco de recursos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Suscripción,a,banco,de,recursos",
+    "purchase_url": "https://www.amazon.com/s?k=Suscripci%C3%B3n%20a%20banco%20de%20recursos"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Impresora fotográfica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Impresora,fotográfica",
+    "purchase_url": "https://www.amazon.com/s?k=Impresora%20fotogr%C3%A1fica"
+  },
+  {
+    "Profesión": "Diseñador/a de modas",
+    "Categoría": "Creativo",
+    "Regalo recomendado": "Portafolio A3",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Portafolio,A3",
+    "purchase_url": "https://www.amazon.com/s?k=Portafolio%20A3"
+  }
+]

@@ -1,0 +1,786 @@
+[
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Pesca deportiva",
+    "Regalo recomendado": "Kit de pesca portátil",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,pesca,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20pesca%20port%C3%A1til"
+  },
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Ciclismo",
+    "Regalo recomendado": "Botella térmica + guantes",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,térmica,+,guantes",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20t%C3%A9rmica%20%2B%20guantes"
+  },
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Gimnasio",
+    "Regalo recomendado": "Bandas elásticas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bandas,elásticas",
+    "purchase_url": "https://www.amazon.com/s?k=Bandas%20el%C3%A1sticas"
+  },
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Videojuegos",
+    "Regalo recomendado": "Mando extra o soporte de control",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mando,extra,o,soporte,de,control",
+    "purchase_url": "https://www.amazon.com/s?k=Mando%20extra%20o%20soporte%20de%20control"
+  },
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Senderismo",
+    "Regalo recomendado": "Mochila plegable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20plegable"
+  },
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Fotografía",
+    "Regalo recomendado": "Trípode portátil",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Trípode,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Tr%C3%ADpode%20port%C3%A1til"
+  },
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Cocina gourmet",
+    "Regalo recomendado": "Set de cuchillos premium",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,cuchillos,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20cuchillos%20premium"
+  },
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Carpintería",
+    "Regalo recomendado": "Kit de herramientas mini",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,herramientas,mini",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20herramientas%20mini"
+  },
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Automodelismo",
+    "Regalo recomendado": "Kit de modelismo 1:24",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,modelismo,1:24",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20modelismo%201%3A24"
+  },
+  {
+    "Grupo": "Hombres",
+    "Hobby": "Deportes de equipo",
+    "Regalo recomendado": "Balón oficial",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Balón,oficial",
+    "purchase_url": "https://www.amazon.com/s?k=Bal%C3%B3n%20oficial"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Yoga y pilates",
+    "Regalo recomendado": "Esterilla antideslizante",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Esterilla,antideslizante",
+    "purchase_url": "https://www.amazon.com/s?k=Esterilla%20antideslizante"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Manualidades",
+    "Regalo recomendado": "Kit crochet con hilos de colores",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,crochet,con,hilos,de,colores",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20crochet%20con%20hilos%20de%20colores"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Jardinería",
+    "Regalo recomendado": "Kit mini huerto",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,mini,huerto",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20mini%20huerto"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Lectura",
+    "Regalo recomendado": "Lámpara LED para libros",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,LED,para,libros",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20LED%20para%20libros"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Repostería",
+    "Regalo recomendado": "Moldes de silicona creativos",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Moldes,de,silicona,creativos",
+    "purchase_url": "https://www.amazon.com/s?k=Moldes%20de%20silicona%20creativos"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Fotografía",
+    "Regalo recomendado": "Luz de aro LED",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Luz,de,aro,LED",
+    "purchase_url": "https://www.amazon.com/s?k=Luz%20de%20aro%20LED"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Senderismo",
+    "Regalo recomendado": "Botella filtrante",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botella,filtrante",
+    "purchase_url": "https://www.amazon.com/s?k=Botella%20filtrante"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Pintura/dibujo",
+    "Regalo recomendado": "Set de acuarelas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,acuarelas",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20acuarelas"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Baile",
+    "Regalo recomendado": "Zapatillas de baile",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Zapatillas,de,baile",
+    "purchase_url": "https://www.amazon.com/s?k=Zapatillas%20de%20baile"
+  },
+  {
+    "Grupo": "Mujeres",
+    "Hobby": "Viajar",
+    "Regalo recomendado": "Maleta de cabina",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maleta,de,cabina",
+    "purchase_url": "https://www.amazon.com/s?k=Maleta%20de%20cabina"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Viajar",
+    "Regalo recomendado": "Almohada de viaje",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Almohada,de,viaje",
+    "purchase_url": "https://www.amazon.com/s?k=Almohada%20de%20viaje"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Fotografía",
+    "Regalo recomendado": "Cámara instantánea",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,instantánea",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20instant%C3%A1nea"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Senderismo",
+    "Regalo recomendado": "Bastones trekking",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bastones,trekking",
+    "purchase_url": "https://www.amazon.com/s?k=Bastones%20trekking"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Cocina",
+    "Regalo recomendado": "Kit de especias",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,especias",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20especias"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Jardinería",
+    "Regalo recomendado": "Macetas decorativas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Macetas,decorativas",
+    "purchase_url": "https://www.amazon.com/s?k=Macetas%20decorativas"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Deportes acuáticos",
+    "Regalo recomendado": "Tabla de bodyboard",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tabla,de,bodyboard",
+    "purchase_url": "https://www.amazon.com/s?k=Tabla%20de%20bodyboard"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Lectura",
+    "Regalo recomendado": "E-book reader",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?E-book,reader",
+    "purchase_url": "https://www.amazon.com/s?k=E-book%20reader"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Juegos de mesa",
+    "Regalo recomendado": "Catan o Carcassonne",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Catan,o,Carcassonne",
+    "purchase_url": "https://www.amazon.com/s?k=Catan%20o%20Carcassonne"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Música",
+    "Regalo recomendado": "Ukelele",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Ukelele",
+    "purchase_url": "https://www.amazon.com/s?k=Ukelele"
+  },
+  {
+    "Grupo": "Mixtos",
+    "Hobby": "Voluntariado",
+    "Regalo recomendado": "Camiseta personalizada ONG",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Camiseta,personalizada,ONG",
+    "purchase_url": "https://www.amazon.com/s?k=Camiseta%20personalizada%20ONG"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Dibujo y pintura",
+    "Regalo recomendado": "Set de témperas no tóxicas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,témperas,no,tóxicas",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20t%C3%A9mperas%20no%20t%C3%B3xicas"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Manualidades",
+    "Regalo recomendado": "Kit slime",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,slime",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20slime"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Construcción",
+    "Regalo recomendado": "LEGO clásico",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?LEGO,clásico",
+    "purchase_url": "https://www.amazon.com/s?k=LEGO%20cl%C3%A1sico"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Ciclismo",
+    "Regalo recomendado": "Casco infantil",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Casco,infantil",
+    "purchase_url": "https://www.amazon.com/s?k=Casco%20infantil"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Patinaje",
+    "Regalo recomendado": "Patines ajustables",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Patines,ajustables",
+    "purchase_url": "https://www.amazon.com/s?k=Patines%20ajustables"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Jardinería",
+    "Regalo recomendado": "Mini kit siembra",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mini,kit,siembra",
+    "purchase_url": "https://www.amazon.com/s?k=Mini%20kit%20siembra"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Lectura infantil",
+    "Regalo recomendado": "Cuentos ilustrados",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuentos,ilustrados",
+    "purchase_url": "https://www.amazon.com/s?k=Cuentos%20ilustrados"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Música básica",
+    "Regalo recomendado": "Tambor infantil",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tambor,infantil",
+    "purchase_url": "https://www.amazon.com/s?k=Tambor%20infantil"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Deportes",
+    "Regalo recomendado": "Balón de mini fútbol",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Balón,de,mini,fútbol",
+    "purchase_url": "https://www.amazon.com/s?k=Bal%C3%B3n%20de%20mini%20f%C3%BAtbol"
+  },
+  {
+    "Grupo": "Niños",
+    "Hobby": "Juegos de mesa",
+    "Regalo recomendado": "Uno Junior",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Uno,Junior",
+    "purchase_url": "https://www.amazon.com/s?k=Uno%20Junior"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Videojuegos",
+    "Regalo recomendado": "Tarjeta de regalo PS/Xbox/Nintendo",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Tarjeta,de,regalo,PS/Xbox/Nintendo",
+    "purchase_url": "https://www.amazon.com/s?k=Tarjeta%20de%20regalo%20PS/Xbox/Nintendo"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Fotografía",
+    "Regalo recomendado": "Lente clip para celular",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lente,clip,para,celular",
+    "purchase_url": "https://www.amazon.com/s?k=Lente%20clip%20para%20celular"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Baile",
+    "Regalo recomendado": "Ropa o accesorios inspirados en K-pop",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Ropa,o,accesorios,inspirados,en,K-pop",
+    "purchase_url": "https://www.amazon.com/s?k=Ropa%20o%20accesorios%20inspirados%20en%20K-pop"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Ciclismo/skate",
+    "Regalo recomendado": "Skateboard completo",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Skateboard,completo",
+    "purchase_url": "https://www.amazon.com/s?k=Skateboard%20completo"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Creación de contenido",
+    "Regalo recomendado": "Aro de luz con trípode",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Aro,de,luz,con,trípode",
+    "purchase_url": "https://www.amazon.com/s?k=Aro%20de%20luz%20con%20tr%C3%ADpode"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Música",
+    "Regalo recomendado": "Guitarra acústica básica",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Guitarra,acústica,básica",
+    "purchase_url": "https://www.amazon.com/s?k=Guitarra%20ac%C3%BAstica%20b%C3%A1sica"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Senderismo",
+    "Regalo recomendado": "Mochila compacta",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mochila,compacta",
+    "purchase_url": "https://www.amazon.com/s?k=Mochila%20compacta"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Lectura juvenil",
+    "Regalo recomendado": "Saga de libros populares",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Saga,de,libros,populares",
+    "purchase_url": "https://www.amazon.com/s?k=Saga%20de%20libros%20populares"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Programación",
+    "Regalo recomendado": "Kit Arduino básico",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,Arduino,básico",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20Arduino%20b%C3%A1sico"
+  },
+  {
+    "Grupo": "Adolescentes",
+    "Hobby": "Deportes de equipo",
+    "Regalo recomendado": "Balón profesional",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Balón,profesional",
+    "purchase_url": "https://www.amazon.com/s?k=Bal%C3%B3n%20profesional"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Viajar",
+    "Regalo recomendado": "Maleta con ruedas giratorias",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maleta,con,ruedas,giratorias",
+    "purchase_url": "https://www.amazon.com/s?k=Maleta%20con%20ruedas%20giratorias"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Fotografía",
+    "Regalo recomendado": "Cámara DSLR básica",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,DSLR,básica",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20DSLR%20b%C3%A1sica"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Gastronomía",
+    "Regalo recomendado": "Juego de cuchillos premium",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Juego,de,cuchillos,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Juego%20de%20cuchillos%20premium"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Deportes",
+    "Regalo recomendado": "Reloj deportivo con GPS",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Reloj,deportivo,con,GPS",
+    "purchase_url": "https://www.amazon.com/s?k=Reloj%20deportivo%20con%20GPS"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Yoga/meditación",
+    "Regalo recomendado": "Cojín de meditación",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cojín,de,meditación",
+    "purchase_url": "https://www.amazon.com/s?k=Coj%C3%ADn%20de%20meditaci%C3%B3n"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Jardinería avanzada",
+    "Regalo recomendado": "Bonsái en maceta",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bonsái,en,maceta",
+    "purchase_url": "https://www.amazon.com/s?k=Bons%C3%A1i%20en%20maceta"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Música",
+    "Regalo recomendado": "Auriculares de alta calidad",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Auriculares,de,alta,calidad",
+    "purchase_url": "https://www.amazon.com/s?k=Auriculares%20de%20alta%20calidad"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Pintura/artes",
+    "Regalo recomendado": "Caballete + lienzos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Caballete,+,lienzos",
+    "purchase_url": "https://www.amazon.com/s?k=Caballete%20%2B%20lienzos"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Voluntariado",
+    "Regalo recomendado": "Set camiseta + gorra ONG",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,camiseta,+,gorra,ONG",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20camiseta%20%2B%20gorra%20ONG"
+  },
+  {
+    "Grupo": "Adultos",
+    "Hobby": "Montañismo",
+    "Regalo recomendado": "Botas trekking",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Botas,trekking",
+    "purchase_url": "https://www.amazon.com/s?k=Botas%20trekking"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Jardinería",
+    "Regalo recomendado": "Herramientas ergonómicas",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Herramientas,ergonómicas",
+    "purchase_url": "https://www.amazon.com/s?k=Herramientas%20ergon%C3%B3micas"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Caminatas suaves",
+    "Regalo recomendado": "Bastón plegable",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Bastón,plegable",
+    "purchase_url": "https://www.amazon.com/s?k=Bast%C3%B3n%20plegable"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Lectura",
+    "Regalo recomendado": "Lupa con luz LED",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lupa,con,luz,LED",
+    "purchase_url": "https://www.amazon.com/s?k=Lupa%20con%20luz%20LED"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Manualidades",
+    "Regalo recomendado": "Kit bordado",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,bordado",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20bordado"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Fotografía",
+    "Regalo recomendado": "Cámara fácil de usar",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cámara,fácil,de,usar",
+    "purchase_url": "https://www.amazon.com/s?k=C%C3%A1mara%20f%C3%A1cil%20de%20usar"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Cocina tradicional",
+    "Regalo recomendado": "Recetario ilustrado",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Recetario,ilustrado",
+    "purchase_url": "https://www.amazon.com/s?k=Recetario%20ilustrado"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Juegos de mesa",
+    "Regalo recomendado": "Dominó premium",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Dominó,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Domin%C3%B3%20premium"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Pintura/cerámica",
+    "Regalo recomendado": "Set de pinturas acrílicas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,pinturas,acrílicas",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20pinturas%20acr%C3%ADlicas"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Canto/coral",
+    "Regalo recomendado": "Atril para partituras",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Atril,para,partituras",
+    "purchase_url": "https://www.amazon.com/s?k=Atril%20para%20partituras"
+  },
+  {
+    "Grupo": "Adultos mayores",
+    "Hobby": "Clubes sociales",
+    "Regalo recomendado": "Agenda organizadora",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Agenda,organizadora",
+    "purchase_url": "https://www.amazon.com/s?k=Agenda%20organizadora"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Deportes",
+    "Regalo recomendado": "Balón multiuso",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Balón,multiuso",
+    "purchase_url": "https://www.amazon.com/s?k=Bal%C3%B3n%20multiuso"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Arte",
+    "Regalo recomendado": "Set de pinceles y acuarelas",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,de,pinceles,y,acuarelas",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20de%20pinceles%20y%20acuarelas"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Música",
+    "Regalo recomendado": "Auriculares bluetooth",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Auriculares,bluetooth",
+    "purchase_url": "https://www.amazon.com/s?k=Auriculares%20bluetooth"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Lectura",
+    "Regalo recomendado": "E-book reader",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?E-book,reader",
+    "purchase_url": "https://www.amazon.com/s?k=E-book%20reader"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Cocina",
+    "Regalo recomendado": "Kit de cuchillos básicos",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,de,cuchillos,básicos",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20de%20cuchillos%20b%C3%A1sicos"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Jardinería",
+    "Regalo recomendado": "Kit mini huerto",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Kit,mini,huerto",
+    "purchase_url": "https://www.amazon.com/s?k=Kit%20mini%20huerto"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Fotografía",
+    "Regalo recomendado": "Trípode portátil",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Trípode,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Tr%C3%ADpode%20port%C3%A1til"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Tecnología",
+    "Regalo recomendado": "Smartwatch básico",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Smartwatch,básico",
+    "purchase_url": "https://www.amazon.com/s?k=Smartwatch%20b%C3%A1sico"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Belleza",
+    "Regalo recomendado": "Set skincare",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Set,skincare",
+    "purchase_url": "https://www.amazon.com/s?k=Set%20skincare"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Moda",
+    "Regalo recomendado": "Polera personalizada",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Polera,personalizada",
+    "purchase_url": "https://www.amazon.com/s?k=Polera%20personalizada"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Bienestar",
+    "Regalo recomendado": "Esterilla yoga",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Esterilla,yoga",
+    "purchase_url": "https://www.amazon.com/s?k=Esterilla%20yoga"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Videojuegos",
+    "Regalo recomendado": "Mando extra",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Mando,extra",
+    "purchase_url": "https://www.amazon.com/s?k=Mando%20extra"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Construcción",
+    "Regalo recomendado": "LEGO Creator",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?LEGO,Creator",
+    "purchase_url": "https://www.amazon.com/s?k=LEGO%20Creator"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Escritura",
+    "Regalo recomendado": "Cuaderno premium",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cuaderno,premium",
+    "purchase_url": "https://www.amazon.com/s?k=Cuaderno%20premium"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "TCG",
+    "Regalo recomendado": "Cartas Pokémon",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Cartas,Pokémon",
+    "purchase_url": "https://www.amazon.com/s?k=Cartas%20Pok%C3%A9mon"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Coleccionismo",
+    "Regalo recomendado": "Figura Funko Pop",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Figura,Funko,Pop",
+    "purchase_url": "https://www.amazon.com/s?k=Figura%20Funko%20Pop"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Figuras de acción",
+    "Regalo recomendado": "Figura anime",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Figura,anime",
+    "purchase_url": "https://www.amazon.com/s?k=Figura%20anime"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Modelismo",
+    "Regalo recomendado": "Maqueta avión",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Maqueta,avión",
+    "purchase_url": "https://www.amazon.com/s?k=Maqueta%20avi%C3%B3n"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Astronomía",
+    "Regalo recomendado": "Telescopio básico",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Telescopio,básico",
+    "purchase_url": "https://www.amazon.com/s?k=Telescopio%20b%C3%A1sico"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Crianza Responsable",
+    "Regalo recomendado": "Libro crianza positiva",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Libro,crianza,positiva",
+    "purchase_url": "https://www.amazon.com/s?k=Libro%20crianza%20positiva"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Mascotas",
+    "Regalo recomendado": "Juguete interactivo",
+    "Precio estimado": "Bajo",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Juguete,interactivo",
+    "purchase_url": "https://www.amazon.com/s?k=Juguete%20interactivo"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Educación",
+    "Regalo recomendado": "Curso online",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Curso,online",
+    "purchase_url": "https://www.amazon.com/s?k=Curso%20online"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "K-pop",
+    "Regalo recomendado": "Álbum oficial",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Álbum,oficial",
+    "purchase_url": "https://www.amazon.com/s?k=%C3%81lbum%20oficial"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Cine",
+    "Regalo recomendado": "Proyector portátil",
+    "Precio estimado": "Alto",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Proyector,portátil",
+    "purchase_url": "https://www.amazon.com/s?k=Proyector%20port%C3%A1til"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Series",
+    "Regalo recomendado": "Suscripción streaming",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Suscripción,streaming",
+    "purchase_url": "https://www.amazon.com/s?k=Suscripci%C3%B3n%20streaming"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Juegos de mesa",
+    "Regalo recomendado": "Catan",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Catan",
+    "purchase_url": "https://www.amazon.com/s?k=Catan"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Decoración",
+    "Regalo recomendado": "Lámpara decorativa",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Lámpara,decorativa",
+    "purchase_url": "https://www.amazon.com/s?k=L%C3%A1mpara%20decorativa"
+  },
+  {
+    "Grupo": "Para Todos",
+    "Hobby": "Vintage/Retro",
+    "Regalo recomendado": "Radio retro",
+    "Precio estimado": "Medio",
+    "URL_Imagen": "https://source.unsplash.com/featured/?Radio,retro",
+    "purchase_url": "https://www.amazon.com/s?k=Radio%20retro"
+  }
+]
