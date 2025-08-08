@@ -25,7 +25,7 @@ function formatPrice(price: number): string {
 }
 ---
 
-<div class="gift-card" data-category={gift.category} data-type={gift.type}>
+<div class="gift-card" data-category={gift.category} data-type={gift.type} data-profession={gift.profession || ''} data-hobby={gift.hobby || ''}>
   <div class="gift-image">
     <img src={gift.image} alt={gift.name} loading="lazy" />
     <div class="gift-overlay">
@@ -48,15 +48,29 @@ function formatPrice(price: number): string {
       <span class="tag category-tag">{gift.category}</span>
       <span class="tag gender-tag">{gift.gender}</span>
       <span class="tag age-tag">{gift.ageRange} años</span>
+      {gift.profession && (
+        <span class="tag profession-tag">{gift.profession}</span>
+      )}
+      {gift.hobby && (
+        <span class="tag hobby-tag">{gift.hobby}</span>
+      )}
     </div>
     
     <div class="gift-actions">
-      <a href={`https://www.amazon.com/s?k=${encodeURIComponent(gift.name)}`} target="_blank" rel="noopener" class="btn btn-primary">
-        🛒 Amazon
-      </a>
-      <a href={`https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(gift.name)}`} target="_blank" rel="noopener" class="btn btn-secondary">
-        🏪 eBay
-      </a>
+      {gift.link ? (
+        <a href={gift.link} target="_blank" rel="noopener" class="btn btn-primary">
+          🛒 Ver Producto
+        </a>
+      ) : (
+        <a href={`https://www.amazon.com/s?k=${encodeURIComponent(gift.name)}`} target="_blank" rel="noopener" class="btn btn-primary">
+          🛒 Amazon
+        </a>
+      )}
+      {!gift.link && (
+        <a href={`https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(gift.name)}`} target="_blank" rel="noopener" class="btn btn-secondary">
+          🏪 eBay
+        </a>
+      )}
       <button class="btn btn-outline">❤️ Guardar</button>
     </div>
   </div>
@@ -201,6 +215,16 @@ function formatPrice(price: number): string {
   .age-tag {
     background: rgba(230, 126, 34, 0.1);
     color: #e67e22;
+  }
+
+  .profession-tag {
+    background: rgba(52, 152, 219, 0.1);
+    color: #3498db;
+  }
+
+  .hobby-tag {
+    background: rgba(241, 196, 15, 0.1);
+    color: #f1c40f;
   }
 
   .gift-actions {

@@ -719,11 +719,14 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
     });
 
     function filterGifts(filters) {
+      // Refresh gifts list in case new ones were added
+      allGifts = getAllGifts();
+      
       let filteredGifts = allGifts.filter(giftCard => {
         const giftData = extractGiftData(giftCard);
         
         // Search filter
-        if (filters.search && !giftData.name.toLowerCase().includes(filters.search)) {
+        if (filters.search && !giftData.name.toLowerCase().includes(filters.search.toLowerCase())) {
           return false;
         }
         
@@ -739,6 +742,16 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
         
         // Type filter
         if (filters.type !== 'Todos' && giftData.type !== filters.type) {
+          return false;
+        }
+        
+        // Profession filter
+        if (filters.profession !== 'Todas' && giftData.profession && !giftData.profession.includes(filters.profession)) {
+          return false;
+        }
+        
+        // Hobby filter  
+        if (filters.hobby !== 'Todos' && giftData.hobby && !giftData.hobby.includes(filters.hobby)) {
           return false;
         }
         
@@ -793,7 +806,8 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
 
     function extractGiftData(giftCard) {
       const title = giftCard.querySelector('.gift-title')?.textContent || '';
-      const price = parseFloat(giftCard.querySelector('.gift-price')?.textContent.replace(/[^\d]/g, '') || '0');
+      const priceText = giftCard.querySelector('.gift-price')?.textContent || '0';
+      const price = parseFloat(priceText.replace(/[^\d]/g, '') || '0');
       
       // Extract category from tags
       const categoryTag = giftCard.querySelector('.category-tag')?.textContent || '';
@@ -802,12 +816,18 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
       // Extract gender from tags
       const genderTag = giftCard.querySelector('.gender-tag')?.textContent || 'unisex';
       
+      // Extract profession and hobby from data attributes
+      const profession = giftCard.dataset.profession || '';
+      const hobby = giftCard.dataset.hobby || '';
+      
       return {
         name: title,
         price: price,
         category: categoryTag,
         type: typeAttr,
-        gender: genderTag
+        gender: genderTag,
+        profession: profession,
+        hobby: hobby
       };
     }
 
@@ -840,38 +860,4 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
     }
   });
 
-  // Global function for clearing filters (called from no-results button)
-  function clearAllFilters() {
-    if (typeof clearAllFilters !== 'undefined') {
-      clearAllFilters();
-    } else {
-      // Fallback if the function from FilterPanel isn't available
-      document.getElementById('search').value = '';
-      document.getElementById('category').value = 'Todos';
-      document.getElementById('gender').value = 'Todos';
-      document.getElementById('type').value = 'Todos';
-      document.getElementById('profession').value = 'Todas';
-      document.getElementById('hobby').value = 'Todos';
-      document.getElementById('min-price').value = '';
-      document.getElementById('max-price').value = '';
-      document.getElementById('sort').value = 'name-asc';
-      
-      // Trigger filter application
-      const filterEvent = new CustomEvent('filtersChanged', {
-        detail: {
-          search: '',
-          category: 'Todos',
-          gender: 'Todos',
-          type: 'Todos',
-          profession: 'Todas',
-          hobby: 'Todos',
-          minPrice: 0,
-          maxPrice: Infinity,
-          sort: 'name-asc'
-        }
-      });
-      
-      document.dispatchEvent(filterEvent);
-    }
-  }
 </script>

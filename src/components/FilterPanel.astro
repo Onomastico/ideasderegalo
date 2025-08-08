@@ -337,7 +337,7 @@ import { categories, genders, ageRanges, types, professions, hobbies } from '../
     document.dispatchEvent(filterEvent);
   }
 
-  function clearAllFilters() {
+  window.clearAllFilters = function() {
     document.getElementById('search').value = '';
     document.getElementById('category').value = 'Todos';
     document.getElementById('gender').value = 'Todos';
@@ -349,5 +349,5 @@ import { categories, genders, ageRanges, types, professions, hobbies } from '../
     document.getElementById('sort').value = 'name-asc';
     
     applyFilters();
-  }
+  };
 </script>
