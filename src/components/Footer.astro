@@ -1,22 +1,276 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
-	</head>
-	<body>
-		<slot />
-	</body>
-</html>
+---
+---
+
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-section">
+      <div class="footer-brand">
+        <span class="brand-icon">🎁</span>
+        <span class="brand-text">IdeasRegalo</span>
+      </div>
+      <p class="footer-description">
+        Tu guía definitiva para encontrar el regalo perfecto. 
+        Descubre miles de ideas únicas para cada ocasión especial.
+      </p>
+      <div class="social-links">
+        <a href="#" aria-label="Facebook"><span>📘</span></a>
+        <a href="#" aria-label="Instagram"><span>📷</span></a>
+        <a href="#" aria-label="Twitter"><span>🐦</span></a>
+      </div>
+    </div>
+
+    <div class="footer-section">
+      <h3>Navegación</h3>
+      <ul class="footer-links">
+        <li><a href="/">Inicio</a></li>
+        <li><a href="#regalos">Catálogo de Regalos</a></li>
+        <li><a href="#personalizados">Regalos Personalizados</a></li>
+        <li><a href="#categorias">Categorías</a></li>
+        <li><a href="/about">Sobre Nosotros</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-section">
+      <h3>Categorías Populares</h3>
+      <ul class="footer-links">
+        <li><a href="#regalos">Tecnología</a></li>
+        <li><a href="#regalos">Hogar y Decoración</a></li>
+        <li><a href="#regalos">Moda y Accesorios</a></li>
+        <li><a href="#regalos">Deportes y Fitness</a></li>
+        <li><a href="#regalos">Experiencias</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-section">
+      <h3>Información Legal</h3>
+      <ul class="footer-links">
+        <li><a href="/privacy">Política de Privacidad</a></li>
+        <li><a href="/terms">Términos y Condiciones</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+        <li><a href="https://www.sanjigen.cl" target="_blank">Regalos 3D</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-section">
+      <h3>Contacto</h3>
+      <div class="contact-info">
+        <p>📧 contacto@ideasregalo.cl</p>
+        <p>📍 Santiago, Chile</p>
+        <p>🕒 Disponible 24/7</p>
+      </div>
+      <div class="newsletter">
+        <h4>Newsletter</h4>
+        <p>Recibe las mejores ideas de regalos</p>
+        <form class="newsletter-form">
+          <input type="email" placeholder="Tu email" required>
+          <button type="submit">Suscribirse</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="footer-bottom-content">
+      <p>&copy; 2025 IdeasRegalo. Todos los derechos reservados.</p>
+      <p class="disclaimer">
+        Los precios y disponibilidad de productos pueden variar. 
+        IdeasRegalo no es responsable de las transacciones realizadas en sitios externos.
+      </p>
+    </div>
+  </div>
+</footer>
 
 <style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
+  .footer {
+    background: linear-gradient(135deg, #145a32 0%, #1e8449 100%);
+    color: white;
+    margin-top: 60px;
+  }
+
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 20px 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 40px;
+  }
+
+  .footer-brand {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .brand-icon {
+    font-size: 2rem;
+    margin-right: 10px;
+  }
+
+  .brand-text {
+    background: linear-gradient(45deg, #fff, #f0f0f0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .footer-description {
+    line-height: 1.6;
+    margin-bottom: 20px;
+    opacity: 0.9;
+  }
+
+  .social-links {
+    display: flex;
+    gap: 15px;
+  }
+
+  .social-links a {
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: transform 0.3s ease;
+  }
+
+  .social-links a:hover {
+    transform: scale(1.2);
+  }
+
+  .footer-section h3 {
+    color: #58d68d;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+  }
+
+  .footer-links {
+    list-style: none;
+    padding: 0;
+  }
+
+  .footer-links li {
+    margin-bottom: 10px;
+  }
+
+  .footer-links a {
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+  }
+
+  .footer-links a:hover {
+    opacity: 1;
+    color: #58d68d;
+  }
+
+  .contact-info p {
+    margin: 8px 0;
+    opacity: 0.9;
+  }
+
+  .newsletter {
+    margin-top: 30px;
+  }
+
+  .newsletter h4 {
+    color: #58d68d;
+    margin-bottom: 10px;
+  }
+
+  .newsletter p {
+    margin-bottom: 15px;
+    opacity: 0.8;
+    font-size: 0.9rem;
+  }
+
+  .newsletter-form {
+    display: flex;
+    gap: 10px;
+  }
+
+  .newsletter-form input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  .newsletter-form input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .newsletter-form button {
+    padding: 10px 15px;
+    background: #58d68d;
+    color: #1e8449;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+
+  .newsletter-form button:hover {
+    background: #4caf50;
+  }
+
+  .footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 20px 0;
+  }
+
+  .footer-bottom-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+  }
+
+  .footer-bottom p {
+    margin: 5px 0;
+    opacity: 0.8;
+  }
+
+  .disclaimer {
+    font-size: 0.8rem;
+    opacity: 0.6;
+  }
+
+  @media screen and (max-width: 768px) {
+    .footer-content {
+      grid-template-columns: 1fr;
+      gap: 30px;
+      padding: 40px 20px 30px;
+    }
+
+    .newsletter-form {
+      flex-direction: column;
+    }
+
+    .newsletter-form button {
+      padding: 12px;
+    }
+  }
 </style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const newsletterForm = document.querySelector('.newsletter-form');
+    
+    if (newsletterForm) {
+      newsletterForm.addEventListener('submit', function(e) {
+        e.preventDefault();
+        const email = this.querySelector('input[type="email"]').value;
+        
+        if (email) {
+          alert('¡Gracias por suscribirte! Te mantendremos informado sobre las mejores ideas de regalos.');
+          this.reset();
+        }
+      });
+    }
+  });
+</script>

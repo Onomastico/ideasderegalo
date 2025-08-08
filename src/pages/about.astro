@@ -1,0 +1,259 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout>
+  <Navbar />
+  
+  <main class="about-page">
+    <section class="hero-about">
+      <div class="container">
+        <h1>Sobre IdeasRegalo</h1>
+        <p class="hero-subtitle">Tu guía definitiva para encontrar el regalo perfecto</p>
+      </div>
+    </section>
+
+    <section class="about-content">
+      <div class="container">
+        <div class="content-grid">
+          <div class="about-text">
+            <h2>¿Quiénes Somos?</h2>
+            <p>
+              IdeasRegalo nació de una simple pero poderosa idea: hacer que encontrar el regalo perfecto 
+              sea fácil, divertido y significativo. Sabemos lo desafiante que puede ser elegir el obsequio 
+              ideal para esa persona especial, y por eso hemos creado una plataforma que te ayuda a 
+              descubrir opciones únicas y personalizadas.
+            </p>
+            
+            <h3>Nuestra Misión</h3>
+            <p>
+              Conectar a las personas a través de regalos significativos, ofreciendo una experiencia 
+              de búsqueda intuitiva que considera los gustos, intereses y personalidad del destinatario. 
+              Creemos que cada regalo cuenta una historia y fortalece los lazos humanos.
+            </p>
+
+            <h3>¿Por Qué Elegirnos?</h3>
+            <ul class="benefits-list">
+              <li><strong>Catálogo Extenso:</strong> Miles de ideas de regalos para todas las ocasiones</li>
+              <li><strong>Filtros Inteligentes:</strong> Encuentra exactamente lo que buscas</li>
+              <li><strong>Regalos Personalizados:</strong> Opciones únicas con impresión 3D</li>
+              <li><strong>Experiencia de Usuario:</strong> Navegación intuitiva y búsqueda eficiente</li>
+              <li><strong>Actualización Constante:</strong> Nuevas ideas y tendencias regularmente</li>
+            </ul>
+          </div>
+
+          <div class="about-stats">
+            <div class="stat-card">
+              <div class="stat-number">25+</div>
+              <div class="stat-label">Ideas de Regalos</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-number">15+</div>
+              <div class="stat-label">Categorías</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-number">100%</div>
+              <div class="stat-label">Satisfacción</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-number">24/7</div>
+              <div class="stat-label">Disponible</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="team-section">
+          <h2>Nuestro Compromiso</h2>
+          <div class="commitment-grid">
+            <div class="commitment-card">
+              <div class="commitment-icon">🎯</div>
+              <h3>Precisión</h3>
+              <p>Cada recomendación está cuidadosamente seleccionada para maximizar la satisfacción del destinatario.</p>
+            </div>
+            <div class="commitment-card">
+              <div class="commitment-icon">🔄</div>
+              <h3>Innovación</h3>
+              <p>Constantemente actualizamos nuestro catálogo con las últimas tendencias y productos innovadores.</p>
+            </div>
+            <div class="commitment-card">
+              <div class="commitment-icon">💚</div>
+              <h3>Sostenibilidad</h3>
+              <p>Promovemos opciones de regalos sostenibles y responsables con el medio ambiente.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</Layout>
+
+<style>
+  .about-page {
+    margin-top: 70px;
+  }
+
+  .hero-about {
+    background: linear-gradient(135deg, #1e8449 0%, #27ae60 100%);
+    background-image: url('https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=1920');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+  }
+
+  .hero-about h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+
+  .hero-subtitle {
+    font-size: 1.3rem;
+    opacity: 0.9;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .about-content {
+    padding: 80px 0;
+    background: #f8f9fa;
+  }
+
+  .content-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 60px;
+    margin-bottom: 60px;
+  }
+
+  .about-text h2 {
+    color: #1e8449;
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+  }
+
+  .about-text h3 {
+    color: #27ae60;
+    font-size: 1.5rem;
+    margin: 30px 0 15px 0;
+  }
+
+  .about-text p {
+    line-height: 1.7;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+  }
+
+  .benefits-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .benefits-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid #ecf0f1;
+    color: #2c3e50;
+  }
+
+  .benefits-list strong {
+    color: #1e8449;
+  }
+
+  .about-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  .stat-card {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  .stat-number {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #1e8449;
+    margin-bottom: 10px;
+  }
+
+  .stat-label {
+    color: #7f8c8d;
+    font-weight: 500;
+  }
+
+  .team-section h2 {
+    text-align: center;
+    color: #1e8449;
+    font-size: 2.2rem;
+    margin-bottom: 40px;
+  }
+
+  .commitment-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+  }
+
+  .commitment-card {
+    background: white;
+    padding: 40px 30px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+
+  .commitment-card:hover {
+    transform: translateY(-5px);
+  }
+
+  .commitment-icon {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+
+  .commitment-card h3 {
+    color: #1e8449;
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+  }
+
+  .commitment-card p {
+    color: #7f8c8d;
+    line-height: 1.6;
+  }
+
+  @media screen and (max-width: 768px) {
+    .hero-about h1 {
+      font-size: 2rem;
+    }
+
+    .content-grid {
+      grid-template-columns: 1fr;
+      gap: 40px;
+    }
+
+    .about-stats {
+      grid-template-columns: 1fr;
+    }
+
+    .commitment-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

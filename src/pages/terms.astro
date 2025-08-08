@@ -1,0 +1,239 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout>
+  <Navbar />
+  
+  <main class="terms-page">
+    <section class="hero-terms">
+      <div class="container">
+        <h1>Términos y Condiciones</h1>
+        <p class="hero-subtitle">Condiciones de uso de IdeasRegalo</p>
+        <p class="last-updated">Última actualización: Enero 2025</p>
+      </div>
+    </section>
+
+    <section class="terms-content">
+      <div class="container">
+        <div class="content-wrapper">
+          <h2>1. Aceptación de los Términos</h2>
+          <p>
+            Al acceder y utilizar IdeasRegalo, aceptas estar sujeto a estos términos y condiciones. 
+            Si no estás de acuerdo con alguna parte de estos términos, no debes usar nuestro servicio.
+          </p>
+
+          <h2>2. Descripción del Servicio</h2>
+          <p>
+            IdeasRegalo es una plataforma web que proporciona ideas y recomendaciones de regalos. 
+            Nuestro servicio incluye:
+          </p>
+          <ul>
+            <li>Catálogo de ideas de regalos organizadas por categorías</li>
+            <li>Sistema de filtros para personalizar búsquedas</li>
+            <li>Enlaces a tiendas externas (Amazon, eBay, etc.)</li>
+            <li>Información sobre regalos personalizados</li>
+            <li>Formularios de contacto y consulta</li>
+          </ul>
+
+          <h2>3. Uso Aceptable</h2>
+          <p>Te comprometes a usar IdeasRegalo únicamente para fines legales y de acuerdo con estos términos. No puedes:</p>
+          <ul>
+            <li>Usar el servicio para actividades ilegales o no autorizadas</li>
+            <li>Intentar acceder a áreas restringidas del sitio</li>
+            <li>Interferir con el funcionamiento del sitio</li>
+            <li>Copiar, reproducir o distribuir contenido sin autorización</li>
+            <li>Usar robots, spiders o herramientas automatizadas</li>
+          </ul>
+
+          <h2>4. Propiedad Intelectual</h2>
+          <p>
+            Todo el contenido de IdeasRegalo, incluyendo textos, gráficos, logos, iconos, imágenes, 
+            clips de audio, descargas digitales y software, es propiedad de IdeasRegalo o sus 
+            proveedores de contenido y está protegido por las leyes de derechos de autor.
+          </p>
+
+          <h2>5. Enlaces a Terceros</h2>
+          <p>
+            Nuestro sitio contiene enlaces a sitios web de terceros (Amazon, eBay, etc.). 
+            Estos enlaces se proporcionan únicamente para tu conveniencia:
+          </p>
+          <ul>
+            <li>No controlamos el contenido de sitios externos</li>
+            <li>No somos responsables de las transacciones realizadas en sitios externos</li>
+            <li>Las compras se rigen por los términos del sitio externo</li>
+            <li>Recomendamos revisar las políticas de privacidad de sitios externos</li>
+          </ul>
+
+          <h2>6. Limitación de Responsabilidad</h2>
+          <p>
+            IdeasRegalo se proporciona "tal como está" sin garantías de ningún tipo. 
+            No garantizamos que:
+          </p>
+          <ul>
+            <li>El servicio será ininterrumpido o libre de errores</li>
+            <li>Los resultados obtenidos serán precisos o confiables</li>
+            <li>Los productos recomendados estarán disponibles</li>
+            <li>Los precios mostrados sean actuales</li>
+          </ul>
+
+          <h2>7. Privacidad y Datos Personales</h2>
+          <p>
+            El uso de tu información personal se rige por nuestra Política de Privacidad, 
+            que forma parte integral de estos términos.
+          </p>
+
+          <h2>8. Modificaciones del Servicio</h2>
+          <p>
+            Nos reservamos el derecho de modificar, suspender o discontinuar cualquier 
+            aspecto del servicio en cualquier momento, con o sin previo aviso.
+          </p>
+
+          <h2>9. Terminación</h2>
+          <p>
+            Podemos terminar o suspender tu acceso al servicio inmediatamente, sin previo 
+            aviso, por cualquier motivo, incluyendo la violación de estos términos.
+          </p>
+
+          <h2>10. Ley Aplicable</h2>
+          <p>
+            Estos términos se rigen por las leyes de Chile. Cualquier disputa será 
+            resuelta en los tribunales competentes de Santiago, Chile.
+          </p>
+
+          <h2>11. Contacto</h2>
+          <p>
+            Si tienes preguntas sobre estos términos y condiciones, puedes contactarnos:
+          </p>
+          <div class="contact-info">
+            <p><strong>Email:</strong> legal@ideasregalo.cl</p>
+            <p><strong>Dirección:</strong> Santiago, Chile</p>
+          </div>
+
+          <div class="acceptance-note">
+            <p><strong>Nota:</strong> Al continuar usando IdeasRegalo, confirmas que has leído, 
+            entendido y aceptado estos términos y condiciones.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</Layout>
+
+<style>
+  .terms-page {
+    margin-top: 70px;
+  }
+
+  .hero-terms {
+    background: linear-gradient(135deg, #1e8449 0%, #27ae60 100%);
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+  }
+
+  .hero-terms h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+
+  .hero-subtitle {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    margin-bottom: 10px;
+  }
+
+  .last-updated {
+    font-size: 0.9rem;
+    opacity: 0.8;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .terms-content {
+    padding: 60px 0;
+    background: #f8f9fa;
+  }
+
+  .content-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  .content-wrapper h2 {
+    color: #1e8449;
+    font-size: 1.5rem;
+    margin: 30px 0 15px 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #27ae60;
+  }
+
+  .content-wrapper p {
+    line-height: 1.7;
+    color: #2c3e50;
+    margin-bottom: 15px;
+  }
+
+  .content-wrapper ul {
+    margin: 15px 0;
+    padding-left: 20px;
+  }
+
+  .content-wrapper li {
+    margin-bottom: 8px;
+    color: #2c3e50;
+    line-height: 1.6;
+  }
+
+  .content-wrapper strong {
+    color: #1e8449;
+  }
+
+  .contact-info {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+  }
+
+  .contact-info p {
+    margin: 5px 0;
+  }
+
+  .acceptance-note {
+    background: #e8f5e8;
+    border: 1px solid #27ae60;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 30px;
+  }
+
+  .acceptance-note p {
+    margin: 0;
+    color: #1e8449;
+    font-weight: 500;
+  }
+
+  @media screen and (max-width: 768px) {
+    .hero-terms h1 {
+      font-size: 2rem;
+    }
+
+    .content-wrapper {
+      padding: 30px 20px;
+    }
+  }
+</style>

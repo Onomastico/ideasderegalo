@@ -1,0 +1,248 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout>
+  <Navbar />
+  
+  <main class="privacy-page">
+    <section class="hero-privacy">
+      <div class="container">
+        <h1>Política de Privacidad</h1>
+        <p class="hero-subtitle">Tu privacidad es importante para nosotros</p>
+        <p class="last-updated">Última actualización: Enero 2025</p>
+      </div>
+    </section>
+
+    <section class="privacy-content">
+      <div class="container">
+        <div class="content-wrapper">
+          <h2>1. Información que Recopilamos</h2>
+          <p>
+            En IdeasRegalo, recopilamos información para brindarte una mejor experiencia de búsqueda de regalos:
+          </p>
+          <ul>
+            <li><strong>Información de navegación:</strong> Páginas visitadas, tiempo de permanencia, preferencias de búsqueda</li>
+            <li><strong>Información de contacto:</strong> Cuando nos contactas voluntariamente a través de nuestros formularios</li>
+            <li><strong>Cookies y tecnologías similares:</strong> Para mejorar la funcionalidad del sitio</li>
+          </ul>
+
+          <h2>2. Cómo Utilizamos tu Información</h2>
+          <p>Utilizamos la información recopilada para:</p>
+          <ul>
+            <li>Mejorar nuestras recomendaciones de regalos</li>
+            <li>Personalizar tu experiencia de navegación</li>
+            <li>Responder a tus consultas y comentarios</li>
+            <li>Analizar el uso del sitio para mejoras continuas</li>
+            <li>Cumplir con obligaciones legales</li>
+          </ul>
+
+          <h2>3. Compartir Información</h2>
+          <p>
+            No vendemos, alquilamos ni compartimos tu información personal con terceros, excepto en los siguientes casos:
+          </p>
+          <ul>
+            <li>Con tu consentimiento explícito</li>
+            <li>Para cumplir con la ley o procesos legales</li>
+            <li>Con proveedores de servicios que nos ayudan a operar el sitio (bajo estrictos acuerdos de confidencialidad)</li>
+          </ul>
+
+          <h2>4. Cookies y Tecnologías de Seguimiento</h2>
+          <p>
+            Utilizamos cookies para mejorar tu experiencia. Puedes controlar las cookies a través de la configuración de tu navegador.
+          </p>
+          <div class="cookie-types">
+            <div class="cookie-type">
+              <h4>Cookies Esenciales</h4>
+              <p>Necesarias para el funcionamiento básico del sitio</p>
+            </div>
+            <div class="cookie-type">
+              <h4>Cookies de Análisis</h4>
+              <p>Nos ayudan a entender cómo usas el sitio</p>
+            </div>
+            <div class="cookie-type">
+              <h4>Cookies de Publicidad</h4>
+              <p>Para mostrar anuncios relevantes (Google AdSense)</p>
+            </div>
+          </div>
+
+          <h2>5. Seguridad de los Datos</h2>
+          <p>
+            Implementamos medidas de seguridad técnicas y organizativas para proteger tu información personal 
+            contra acceso no autorizado, alteración, divulgación o destrucción.
+          </p>
+
+          <h2>6. Tus Derechos</h2>
+          <p>Tienes derecho a:</p>
+          <ul>
+            <li>Acceder a tu información personal</li>
+            <li>Rectificar datos inexactos</li>
+            <li>Solicitar la eliminación de tus datos</li>
+            <li>Oponerte al procesamiento de tus datos</li>
+            <li>Portabilidad de datos</li>
+          </ul>
+
+          <h2>7. Enlaces a Terceros</h2>
+          <p>
+            Nuestro sitio contiene enlaces a Amazon, eBay y otros sitios de terceros. No somos responsables 
+            de las prácticas de privacidad de estos sitios externos.
+          </p>
+
+          <h2>8. Menores de Edad</h2>
+          <p>
+            Nuestro servicio no está dirigido a menores de 13 años. No recopilamos conscientemente 
+            información personal de menores de 13 años.
+          </p>
+
+          <h2>9. Cambios a esta Política</h2>
+          <p>
+            Podemos actualizar esta política de privacidad ocasionalmente. Te notificaremos sobre 
+            cambios significativos publicando la nueva política en esta página.
+          </p>
+
+          <h2>10. Contacto</h2>
+          <p>
+            Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en:
+          </p>
+          <div class="contact-info">
+            <p><strong>Email:</strong> privacidad@ideasregalo.cl</p>
+            <p><strong>Dirección:</strong> Santiago, Chile</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</Layout>
+
+<style>
+  .privacy-page {
+    margin-top: 70px;
+  }
+
+  .hero-privacy {
+    background: linear-gradient(135deg, #1e8449 0%, #27ae60 100%);
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+  }
+
+  .hero-privacy h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+
+  .hero-subtitle {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    margin-bottom: 10px;
+  }
+
+  .last-updated {
+    font-size: 0.9rem;
+    opacity: 0.8;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .privacy-content {
+    padding: 60px 0;
+    background: #f8f9fa;
+  }
+
+  .content-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+
+  .content-wrapper h2 {
+    color: #1e8449;
+    font-size: 1.5rem;
+    margin: 30px 0 15px 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #27ae60;
+  }
+
+  .content-wrapper p {
+    line-height: 1.7;
+    color: #2c3e50;
+    margin-bottom: 15px;
+  }
+
+  .content-wrapper ul {
+    margin: 15px 0;
+    padding-left: 20px;
+  }
+
+  .content-wrapper li {
+    margin-bottom: 8px;
+    color: #2c3e50;
+    line-height: 1.6;
+  }
+
+  .content-wrapper strong {
+    color: #1e8449;
+  }
+
+  .cookie-types {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+  }
+
+  .cookie-type {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 4px solid #27ae60;
+  }
+
+  .cookie-type h4 {
+    color: #1e8449;
+    margin: 0 0 10px 0;
+  }
+
+  .cookie-type p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #7f8c8d;
+  }
+
+  .contact-info {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+
+  .contact-info p {
+    margin: 5px 0;
+  }
+
+  @media screen and (max-width: 768px) {
+    .hero-privacy h1 {
+      font-size: 2rem;
+    }
+
+    .content-wrapper {
+      padding: 30px 20px;
+    }
+
+    .cookie-types {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

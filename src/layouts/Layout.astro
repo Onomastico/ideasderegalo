@@ -2,10 +2,39 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
+		<meta name="description" content="Encuentra el regalo perfecto para cualquier ocasión. Miles de ideas de regalos únicos, personalizados y para todos los gustos. Desde tecnología hasta experiencias inolvidables." />
+		<meta name="keywords" content="regalos, ideas de regalos, regalos personalizados, regalos únicos, tecnología, experiencias, cumpleaños, navidad, san valentín" />
+		<meta name="author" content="IdeasRegalo.cl" />
+		<meta name="robots" content="index, follow" />
+		<meta property="og:title" content="IdeasRegalo - Encuentra el Regalo Perfecto" />
+		<meta property="og:description" content="Descubre miles de ideas de regalos únicos para cada ocasión especial. Regalos personalizados, tecnología y experiencias inolvidables." />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://stellular-rabanadas-2b8820.netlify.app" />
+		<meta property="og:image" content="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="IdeasRegalo - Encuentra el Regalo Perfecto" />
+		<meta name="twitter:description" content="Miles de ideas de regalos únicos para cada ocasión especial" />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="canonical" href="https://stellular-rabanadas-2b8820.netlify.app" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
+		<title>IdeasRegalo - Encuentra el Regalo Perfecto | Regalos Únicos y Personalizados</title>
+		
+		<!-- Schema.org structured data -->
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "WebSite",
+			"name": "IdeasRegalo",
+			"url": "https://stellular-rabanadas-2b8820.netlify.app",
+			"description": "Encuentra el regalo perfecto para cualquier ocasión. Miles de ideas de regalos únicos y personalizados.",
+			"potentialAction": {
+				"@type": "SearchAction",
+				"target": "https://stellular-rabanadas-2b8820.netlify.app#regalos?search={search_term_string}",
+				"query-input": "required name=search_term_string"
+			}
+		}
+		</script>
 	</head>
 	<body>
 		<slot />
@@ -18,5 +47,6 @@
 		margin: 0;
 		width: 100%;
 		height: 100%;
+		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
 	}
 </style>
