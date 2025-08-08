@@ -1,0 +1,305 @@
+{
+  "cooking": [
+    {
+      "name": "Cafetera Moccamaster",
+      "description": "La cafetera Moccamaster se destaca como uno de los mejores gadgets de cocina; está diseñada para preparar café de alta calidad de forma rápida y precisa【398812130944237†L87-L97】.",
+      "link": "https://example.com/moccamaster",
+      "image": "gift_images/coffee_maker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["cooking"],
+        "profession": ["chef", "home_cook"]
+      }
+    },
+    {
+      "name": "Hervidor eléctrico Fellow Corvo EKG Pro",
+      "description": "Este hervidor combina el encanto de una tetera clásica con la rapidez y precisión de un modelo eléctrico, ideal para preparar té o café con exactitud【398812130944237†L224-L233】.",
+      "link": "https://example.com/tea-kettle",
+      "image": "gift_images/electric_kettle.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["cooking"],
+        "profession": ["chef", "home_cook"]
+      }
+    },
+    {
+      "name": "Ahumador portátil Breville Gun Pro",
+      "description": "Este ahumador de mano permite aportar un toque ahumado profesional a platos preparados en casa, ideal para chefs aficionados【398812130944237†L242-L245】.",
+      "link": "https://example.com/smoke-infuser",
+      "image": "gift_images/bluetooth_speaker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["cooking"],
+        "profession": ["chef", "home_cook"]
+      }
+    },
+    {
+      "name": "Báscula y taza medidora digital KitchenMetrics",
+      "description": "Esta herramienta combina una báscula digital y una taza medidora en un solo utensilio, facilitando la precisión en las recetas【398812130944237†L247-L258】.",
+      "link": "https://example.com/digital-scale",
+      "image": "gift_images/gift_set.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["cooking"],
+        "profession": ["chef", "home_cook"]
+      }
+    },
+    {
+      "name": "Kit de cultivo de hierbas Click and Grow",
+      "description": "Este kit de jardín de interior incluye semillas y sistemas de riego automáticos que permiten cultivar hierbas frescas en casa; ideal para mejorar cualquier receta【398812130944237†L260-L273】.",
+      "link": "https://example.com/herb-garden",
+      "image": "gift_images/terrarium_kit.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["cooking", "gardening"],
+        "profession": ["chef", "home_cook"]
+      }
+    }
+  ],
+  "music": [
+    {
+      "name": "Auriculares Bowers & Wilkins PX8",
+      "description": "Auriculares de lujo que combinan materiales de primera calidad con sonido de alta fidelidad, perfectos para disfrutar de música sin cables【846316891042618†L263-L274】.",
+      "link": "https://www.bowerswilkins.com",
+      "image": "gift_images/wireless_headphones.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["teen", "adult"],
+        "hobby": ["music"],
+        "profession": []
+      }
+    },
+    {
+      "name": "Tocadiscos 1 By One",
+      "description": "Reproductor con sistema de absorción de vibraciones y altavoces integrados; reproduce vinilos y música vía Bluetooth para un sonido cálido【846316891042618†L225-L236】.",
+      "link": "https://example.com/record-player",
+      "image": "gift_images/retro_record_player.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["teen", "adult"],
+        "hobby": ["music", "vintage"]
+      }
+    },
+    {
+      "name": "Auriculares inalámbricos",
+      "description": "Los auriculares inalámbricos destacan entre los regalos más populares porque permiten escuchar música cómodamente sin cables【806818789242730†L389-L424】.",
+      "link": "https://example.com/wireless-headphones",
+      "image": "gift_images/wireless_headphones.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["teen", "adult"],
+        "hobby": ["music", "fitness"]
+      }
+    },
+    {
+      "name": "Gafas Meta Ray‑Ban Smart Wayfarer",
+      "description": "Estas gafas inteligentes pueden tomar fotos y reproducir música directamente al oído, combinando moda y tecnología【398812130944237†L120-L122】.",
+      "link": "https://www.ray-ban.com",
+      "image": "gift_images/wireless_headphones.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["music", "technology"]
+      }
+    },
+    {
+      "name": "Proyector portátil Xgimi MoGo 3 Pro",
+      "description": "Proyector compacto con Google TV que permite reproducir conciertos y películas con una interfaz sencilla en cualquier lugar【398812130944237†L128-L145】.",
+      "link": "https://www.xgimi.com",
+      "image": "gift_images/bluetooth_speaker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["teen", "adult"],
+        "hobby": ["music", "entertainment"]
+      }
+    }
+  ],
+  "sports": [
+    {
+      "name": "Mancuernas ajustables Ativafit",
+      "description": "Estas mancuernas permiten variar la carga en segundos mediante un dial; están fabricadas en acero cromado resistente con mango ergonómico【846316891042618†L195-L199】.",
+      "link": "https://example.com/ativafit-dumbbells",
+      "image": "gift_images/gift_set.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["sports", "fitness"]
+      }
+    },
+    {
+      "name": "Cinta de andar Xiaomi Walking Pad R1 Pro",
+      "description": "Cinta de correr plegable y compacta que alcanza velocidades de hasta 10 km/h y se controla mediante una aplicación móvil【846316891042618†L319-L327】.",
+      "link": "https://example.com/walking-pad",
+      "image": "gift_images/bluetooth_speaker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["sports", "fitness"]
+      }
+    },
+    {
+      "name": "Bicicleta de montaña",
+      "description": "Una bicicleta de montaña de calidad es un regalo perfecto para jóvenes aventureros y fomenta la actividad al aire libre【984392686256040†L109-L114】.",
+      "link": "https://example.com/mountain-bike",
+      "image": "gift_images/gift_set.png",
+      "categories": {
+        "sex": ["male", "female", "unisex"],
+        "age": ["teen", "adult"],
+        "hobby": ["sports", "outdoors"]
+      }
+    },
+    {
+      "name": "Altavoz Ultimate Ears Everboom 4",
+      "description": "Altavoz inalámbrico resistente al agua y al polvo que ofrece sonido envolvente de 360° y batería de hasta 20 horas, ideal para acompañar entrenamientos al aire libre【846316891042618†L337-L344】.",
+      "link": "https://example.com/everboom",
+      "image": "gift_images/bluetooth_speaker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["teen", "adult"],
+        "hobby": ["sports", "music"]
+      }
+    },
+    {
+      "name": "Reloj inteligente",
+      "description": "Los relojes inteligentes permiten monitorear actividad física y salud; son de los regalos más buscados según estadísticas de búsqueda【806818789242730†L389-L424】.",
+      "link": "https://example.com/smartwatch",
+      "image": "gift_images/smartwatch.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["sports", "fitness"],
+        "profession": []
+      }
+    }
+  ],
+  "gardening": [
+    {
+      "name": "Suscripción de flores",
+      "description": "Una suscripción de flores entrega ramos frescos mensualmente en envases reciclables, ideal para amantes de las flores【400146567935419†L130-L135】.",
+      "link": "https://example.com/flower-subscription",
+      "image": "gift_images/scented_candle.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["gardening", "home"]
+      }
+    },
+    {
+      "name": "Soporte para peonías",
+      "description": "Soporte de acero para plantas diseñado para mantener las peonías y otras flores en posición; disponible en varios colores【400146567935419†L152-L156】.",
+      "link": "https://example.com/peony-support",
+      "image": "gift_images/gift_set.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["gardening", "flowers"]
+      }
+    },
+    {
+      "name": "Kit de terrario Bloombox",
+      "description": "El kit de terrario está elaborado con vidrio reciclado y contiene todo lo necesario para crear un mini jardín de interior【400146567935419†L175-L185】.",
+      "link": "https://example.com/terrarium",
+      "image": "gift_images/terrarium_kit.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["gardening", "decor"]
+      }
+    },
+    {
+      "name": "Kit de cultivo de hierbas de interior",
+      "description": "Este kit incluye semillas y compost orgánico y vegano en un paquete libre de plástico, permitiendo cultivar hierbas frescas en espacios reducidos【400146567935419†L194-L199】.",
+      "link": "https://example.com/indoor-herb-kit",
+      "image": "gift_images/terrarium_kit.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["gardening", "cooking"]
+      }
+    },
+    {
+      "name": "Regadera de cobre Haws",
+      "description": "Regadera de cobre atractiva y funcional para quienes cuidan plantas de interior o invernaderos; puede pulirse para conservar el brillo o dejar que adquiera una pátina verdosa【400146567935419†L209-L213】.",
+      "link": "https://example.com/copper-watering-can",
+      "image": "gift_images/coffee_maker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["gardening"]
+      }
+    },
+    {
+      "name": "Comedero inteligente para pájaros",
+      "description": "Este comedero con cámara envía notificaciones al teléfono cuando los pájaros se posan; permite ver las aves en tiempo real y funciona con batería y WiFi【400146567935419†L224-L231】.",
+      "link": "https://example.com/bird-feeder",
+      "image": "gift_images/bluetooth_speaker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult", "family"],
+        "hobby": ["gardening", "nature"]
+      }
+    }
+  ],
+  "travel": [
+    {
+      "name": "Cámara instantánea Kodak Printomatic",
+      "description": "Cámara instantánea de 5 MP que imprime fotografías al instante sin tinta, perfecta para documentar aventuras【661844054914265†L948-L956】.",
+      "link": "https://example.com/kodak-printomatic",
+      "image": "gift_images/retro_record_player.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["teen", "adult"],
+        "hobby": ["travel", "photography"]
+      }
+    },
+    {
+      "name": "Proyector portátil Xgimi MoGo 3 Pro",
+      "description": "Ligero y con Google TV integrado, este proyector permite disfrutar de películas y series durante los viajes o escapadas【398812130944237†L128-L145】.",
+      "link": "https://www.xgimi.com",
+      "image": "gift_images/bluetooth_speaker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["travel", "entertainment"]
+      }
+    },
+    {
+      "name": "Gafas Meta Ray‑Ban Smart Wayfarer",
+      "description": "Estas gafas inteligentes pueden tomar fotos y vídeos, reproducir música y traducir textos; son el compañero ideal para viajeros curiosos【398812130944237†L120-L122】.",
+      "link": "https://www.ray-ban.com",
+      "image": "gift_images/wireless_headphones.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["travel", "technology"]
+      }
+    },
+    {
+      "name": "Set de escritura inteligente Moleskine",
+      "description": "El cuaderno y bolígrafo digital permiten guardar notas y dibujos de viajes en la nube, ideal para diarios de viaje o creatividad en movimiento【398812130944237†L149-L162】.",
+      "link": "https://www.moleskine.com",
+      "image": "gift_images/gift_set.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["travel", "writing"]
+      }
+    },
+    {
+      "name": "Tarjeta de regalo para experiencias",
+      "description": "Las tarjetas de regalo y suscripciones a experiencias como conciertos o viajes se han vuelto populares, permitiendo elegir actividades memorables【615819600888409†L245-L268】.",
+      "link": "https://example.com/travel-gift-card",
+      "image": "gift_images/gift_card.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "hobby": ["travel", "experiences"]
+      }
+    }
+  ]
+}
