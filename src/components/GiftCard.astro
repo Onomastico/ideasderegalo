@@ -51,13 +51,12 @@ function formatPrice(price: number): string {
     </div>
     
     <div class="gift-actions">
-      {gift.link ? (
-        <a href={gift.link} target="_blank" rel="noopener" class="btn btn-primary">
-          Ver en Sanjigen 🎨
-        </a>
-      ) : (
-        <button class="btn btn-secondary">Ver Detalles</button>
-      )}
+      <a href={`https://www.amazon.com/s?k=${encodeURIComponent(gift.name)}`} target="_blank" rel="noopener" class="btn btn-primary">
+        🛒 Amazon
+      </a>
+      <a href={`https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(gift.name)}`} target="_blank" rel="noopener" class="btn btn-secondary">
+        🏪 eBay
+      </a>
       <button class="btn btn-outline">❤️ Guardar</button>
     </div>
   </div>
