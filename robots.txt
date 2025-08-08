@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://stellular-rabanadas-2b8820.netlify.app/sitemap.xml
+
+# AdSense
+User-agent: Mediapartners-Google
+Allow: /
+
+# Disallow admin areas (if any in the future)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all gift and category pages
+Allow: /about
+Allow: /privacy
+Allow: /terms
