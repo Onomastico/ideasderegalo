@@ -202,11 +202,11 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
 <style>
   /* Hero Section */
   .hero {
-    background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+    background: linear-gradient(135deg, #1e8449 0%, #27ae60 100%);
     background-image: url('https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1920');
     background-size: cover;
     background-position: center;
-    background-blend-mode: overlay;
+    background-blend-mode: multiply;
     color: white;
     padding: 120px 0 80px;
     margin-top: 70px;
@@ -239,10 +239,8 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
   .hero-text h1 {
     font-size: 3.5rem;
     margin-bottom: 20px;
-    background: linear-gradient(45deg, #fff, #f0f0f0);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     line-height: 1.2;
   }
 
@@ -345,7 +343,7 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
   /* Categories Preview */
   .categories-preview {
     padding: 80px 0;
-    background: linear-gradient(rgba(46, 204, 113, 0.1), rgba(39, 174, 96, 0.1)), url('https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=1920');
+    background: linear-gradient(rgba(30, 132, 73, 0.8), rgba(39, 174, 96, 0.8)), url('https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=1920');
     background-size: cover;
     background-position: center;
   }
@@ -360,7 +358,8 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 50px;
-    color: #2c3e50;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
   }
 
   .categories-grid {
@@ -403,7 +402,7 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
   /* Gifts Section */
   .gifts-section {
     padding: 80px 0;
-    background: linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)), url('https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=1920');
+    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=1920');
     background-size: cover;
     background-position: center;
   }
@@ -479,11 +478,11 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
 
   /* Contact Section */
   .contact-section {
-    background: linear-gradient(135deg, #1e8449 0%, #27ae60 100%);
+    background: linear-gradient(135deg, #145a32 0%, #1e8449 100%);
     background-image: url('https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1920');
     background-size: cover;
     background-position: center;
-    background-blend-mode: overlay;
+    background-blend-mode: multiply;
     color: white;
     padding: 80px 0;
   }
@@ -535,7 +534,7 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
   }
 
   .contact-method a {
-    color: #2ecc71;
+    color: #58d68d;
     text-decoration: none;
   }
 
@@ -580,7 +579,7 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
   .form-input:focus,
   .form-textarea:focus {
     outline: none;
-    border-color: #2ecc71;
+    border-color: #58d68d;
     background: rgba(255, 255, 255, 0.15);
   }
 
@@ -788,8 +787,10 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
     function extractGiftData(giftCard) {
       const title = giftCard.querySelector('.gift-title')?.textContent || '';
       const price = parseFloat(giftCard.querySelector('.gift-price')?.textContent.replace(/[^\d]/g, '') || '0');
-      const category = giftCard.dataset.category || '';
-      const type = giftCard.dataset.type || '';
+      
+      // Extract category from tags
+      const categoryTag = giftCard.querySelector('.category-tag')?.textContent || '';
+      const typeAttr = giftCard.dataset.type || '';
       
       // Extract gender from tags
       const genderTag = giftCard.querySelector('.gender-tag')?.textContent || 'unisex';
@@ -797,8 +798,8 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
       return {
         name: title,
         price: price,
-        category: category,
-        type: type,
+        category: categoryTag,
+        type: typeAttr,
         gender: genderTag
       };
     }
