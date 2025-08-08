@@ -1,0 +1,250 @@
+{
+  "tech_worker": [
+    {
+      "name": "Meta Ray‑Ban Smart Wayfarer",
+      "description": "Gafas inteligentes que permiten tomar fotos o vídeos, reproducir música directamente en los oídos y traducir textos; ideales para los amantes de la tecnología【398812130944237†L120-L122】.",
+      "link": "https://www.ray-ban.com",
+      "image": "gift_images/wireless_headphones.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["tech_worker"],
+        "hobby": ["technology", "music"]
+      }
+    },
+    {
+      "name": "Xgimi MoGo 3 Pro proyector portátil",
+      "description": "Proyector portátil con Google TV integrado que ofrece acceso sencillo a Netflix, Disney o HBO Max, lo que permite disfrutar de presentaciones o películas en cualquier lugar【398812130944237†L128-L145】.",
+      "link": "https://www.xgimi.com",
+      "image": "gift_images/bluetooth_speaker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["tech_worker"],
+        "hobby": ["technology", "entertainment"]
+      }
+    },
+    {
+      "name": "Moleskine Smart Writing Set",
+      "description": "Kit de cuaderno y bolígrafo inteligente que digitaliza todo lo que se escribe, ideal para tomar notas o bocetos y organizarlos en la nube【398812130944237†L149-L162】.",
+      "link": "https://www.moleskine.com",
+      "image": "gift_images/gift_set.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["tech_worker"],
+        "hobby": ["productivity", "art"]
+      }
+    },
+    {
+      "name": "Auriculares Bowers & Wilkins PX8",
+      "description": "Auriculares inalámbricos de gama alta con materiales de primera calidad y sonido de alta definición; ofrecen una experiencia auditiva de lujo【846316891042618†L263-L274】.",
+      "link": "https://www.bowerswilkins.com",
+      "image": "gift_images/wireless_headphones.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["tech_worker"],
+        "hobby": ["music", "technology"]
+      }
+    },
+    {
+      "name": "Reloj inteligente",
+      "description": "Los relojes inteligentes se han convertido en uno de los regalos más buscados por su capacidad para recibir notificaciones y monitorizar la actividad; están entre los regalos más solicitados según informes de búsqueda【806818789242730†L389-L424】.",
+      "link": "https://example.com/smartwatch",
+      "image": "gift_images/smartwatch.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["tech_worker"],
+        "hobby": ["fitness", "technology"]
+      }
+    }
+  ],
+  "teacher": [
+    {
+      "name": "Moleskine Smart Writing Set",
+      "description": "Este set de cuaderno y bolígrafo inteligente digitaliza notas y bocetos, facilitando la organización de apuntes y planes de clase【398812130944237†L149-L162】.",
+      "link": "https://www.moleskine.com",
+      "image": "gift_images/gift_set.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["teacher"],
+        "hobby": ["education", "productivity"]
+      }
+    },
+    {
+      "name": "Cafetera de goteo",
+      "description": "Las cafeteras forman parte del top 10 de regalos más buscados en Chile; aportan comodidad en casa u oficina【806818789242730†L389-L424】.",
+      "link": "https://example.com/coffeemaker",
+      "image": "gift_images/coffee_maker.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["teacher"],
+        "hobby": ["cooking", "home"]
+      }
+    },
+    {
+      "name": "Velas aromáticas",
+      "description": "Las velas perfumadas se encuentran entre los regalos más buscados porque aportan un ambiente relajante y agradable【806818789242730†L389-L424】.",
+      "link": "https://example.com/scentedcandle",
+      "image": "gift_images/scented_candle.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["teacher"],
+        "hobby": ["home", "relaxation"]
+      }
+    },
+    {
+      "name": "Tarjeta de regalo digital",
+      "description": "Las tarjetas de regalo y suscripciones son cada vez más populares; según estudios de consumo, se consideran un obsequio versátil y apreciado【615819600888409†L245-L268】.",
+      "link": "https://example.com/giftcard",
+      "image": "gift_images/gift_card.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["teacher"],
+        "hobby": ["shopping", "entertainment"]
+      }
+    },
+    {
+      "name": "Kit de terrario de vidrio reciclado",
+      "description": "Este kit de terrario fabricado con vidrio reciclado incluye todo lo necesario para montar un mini jardín, convirtiéndolo en un regalo relajante y decorativo【400146567935419†L175-L185】.",
+      "link": "https://example.com/terrarium",
+      "image": "gift_images/terrarium_kit.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["teacher"],
+        "hobby": ["gardening", "decor"]
+      }
+    }
+  ],
+  "healthcare_worker": [
+    {
+      "name": "Set de autocuidado y spa",
+      "description": "Los kits de autocuidado y productos retro vuelven a estar de moda; incluyen artículos como mascarillas, aceites esenciales y baños de espuma para promover el bienestar【713867464995002†L262-L279】.",
+      "link": "https://example.com/spaset",
+      "image": "gift_images/spa_set.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["healthcare_worker"],
+        "hobby": ["wellness", "relaxation"]
+      }
+    },
+    {
+      "name": "Reloj inteligente",
+      "description": "Un smartwatch permite monitorizar salud y recibir notificaciones; se encuentra entre los regalos más demandados en Chile【806818789242730†L389-L424】.",
+      "link": "https://example.com/smartwatch",
+      "image": "gift_images/smartwatch.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["healthcare_worker"],
+        "hobby": ["fitness", "technology"]
+      }
+    },
+    {
+      "name": "Auriculares inalámbricos",
+      "description": "Los auriculares inalámbricos son de los regalos más buscados; ofrecen libertad de movimiento y comodidad para escuchar música o podcasts【806818789242730†L389-L424】.",
+      "link": "https://example.com/wireless-headphones",
+      "image": "gift_images/wireless_headphones.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["healthcare_worker"],
+        "hobby": ["music", "fitness"]
+      }
+    },
+    {
+      "name": "Suscripción de bienestar o clases",
+      "description": "Las suscripciones y experiencias, como clases de yoga o meditación, están creciendo en popularidad como obsequios que fomentan la salud y el equilibrio【713867464995002†L175-L200】.",
+      "link": "https://example.com/wellness-subscription",
+      "image": "gift_images/gift_card.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["healthcare_worker"],
+        "hobby": ["wellness", "education"]
+      }
+    },
+    {
+      "name": "Tarjeta regalo Royal Touch",
+      "description": "La tarjeta regalo de Royal Touch ofrece tratamientos de spa como masajes y exfoliaciones, una opción perfecta para relajarse【661844054914265†L1008-L1015】.",
+      "link": "https://royaltouch.com",
+      "image": "gift_images/gift_card.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["healthcare_worker"],
+        "hobby": ["relaxation", "luxury"]
+      }
+    }
+  ],
+  "artist": [
+    {
+      "name": "Cámara instantánea Kodak Printomatic",
+      "description": "Cámara instantánea de 5 MP que imprime fotos sin tinta; ideal para capturar ideas y recuerdos al momento【661844054914265†L948-L956】.",
+      "link": "https://example.com/kodak-printomatic",
+      "image": "gift_images/retro_record_player.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["teen", "adult"],
+        "profession": ["artist"],
+        "hobby": ["photography", "travel"]
+      }
+    },
+    {
+      "name": "Pendientes Témpanos de Papiroga",
+      "description": "Pendientes de plexiglás chapados en oro de 18 quilates, ligeros y originales, perfectos para añadir un toque artístico【661844054914265†L1008-L1015】.",
+      "link": "https://papiroga.com",
+      "image": "gift_images/perfume.png",
+      "categories": {
+        "sex": ["female", "unisex"],
+        "age": ["adult"],
+        "profession": ["artist"],
+        "hobby": ["fashion", "art"]
+      }
+    },
+    {
+      "name": "Bolso de poliéster reciclado Soie",
+      "description": "Bolso ligero y resistente fabricado con poliéster reciclado; fácil de plegar y lavar, ideal para compras sostenibles【661844054914265†L989-L998】.",
+      "link": "https://example.com/soie-bag",
+      "image": "gift_images/gift_set.png",
+      "categories": {
+        "sex": ["female", "unisex"],
+        "age": ["adult"],
+        "profession": ["artist"],
+        "hobby": ["sustainability", "fashion"]
+      }
+    },
+    {
+      "name": "Tocadiscos 1 By One",
+      "description": "Reproductor de vinilos con sistema de absorción de vibraciones y altavoces incorporados; permite escuchar discos con sonido cálido o conectar el móvil mediante Bluetooth【846316891042618†L225-L236】.",
+      "link": "https://example.com/record-player",
+      "image": "gift_images/retro_record_player.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["artist"],
+        "hobby": ["music", "vintage"]
+      }
+    },
+    {
+      "name": "Moleskine Smart Writing Set",
+      "description": "Este set permite digitalizar dibujos y bocetos, lo que ayuda a artistas y diseñadores a conservar sus ideas en formato digital【398812130944237†L149-L162】.",
+      "link": "https://www.moleskine.com",
+      "image": "gift_images/gift_set.png",
+      "categories": {
+        "sex": ["unisex"],
+        "age": ["adult"],
+        "profession": ["artist"],
+        "hobby": ["art", "productivity"]
+      }
+    }
+  ]
+}
