@@ -745,6 +745,11 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
           return false;
         }
         
+        // Group filter
+        if (filters.group !== 'Todos' && giftData.group && giftData.group !== filters.group) {
+          return false;
+        }
+        
         // Profession filter
         if (filters.profession !== 'Todas' && giftData.profession && !giftData.profession.includes(filters.profession)) {
           return false;
@@ -819,6 +824,7 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
       // Extract profession and hobby from data attributes
       const profession = giftCard.dataset.profession || '';
       const hobby = giftCard.dataset.hobby || '';
+      const group = giftCard.dataset.group || '';
       
       return {
         name: title,
@@ -827,7 +833,8 @@ const personalizedGifts = gifts.filter(gift => gift.type === 'personalizado');
         type: typeAttr,
         gender: genderTag,
         profession: profession,
-        hobby: hobby
+        hobby: hobby,
+        group: group
       };
     }
 

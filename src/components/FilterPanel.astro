@@ -1,5 +1,5 @@
 ---
-import { categories, genders, ageRanges, types, professions, hobbies } from '../data/gifts.ts';
+import { categories, genders, ageRanges, types, professions, hobbies, groups } from '../data/gifts.ts';
 ---
 
 <div class="filter-panel" id="filter-panel">
@@ -39,6 +39,15 @@ import { categories, genders, ageRanges, types, professions, hobbies } from '../
       <select id="type" class="filter-select">
         {types.map(type => (
           <option value={type}>{type === 'Todos' ? 'Todos' : type.charAt(0).toUpperCase() + type.slice(1)}</option>
+        ))}
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="group">Grupo:</label>
+      <select id="group" class="filter-select">
+        {groups.map(group => (
+          <option value={group}>{group}</option>
         ))}
       </select>
     </div>
@@ -313,6 +322,7 @@ import { categories, genders, ageRanges, types, professions, hobbies } from '../
     const category = document.getElementById('category')?.value || 'Todos';
     const gender = document.getElementById('gender')?.value || 'Todos';
     const type = document.getElementById('type')?.value || 'Todos';
+    const group = document.getElementById('group')?.value || 'Todos';
     const profession = document.getElementById('profession')?.value || 'Todas';
     const hobby = document.getElementById('hobby')?.value || 'Todos';
     const minPrice = parseInt(document.getElementById('min-price')?.value) || 0;
@@ -326,6 +336,7 @@ import { categories, genders, ageRanges, types, professions, hobbies } from '../
         category,
         gender,
         type,
+        group,
         profession,
         hobby,
         minPrice,
@@ -342,6 +353,7 @@ import { categories, genders, ageRanges, types, professions, hobbies } from '../
     document.getElementById('category').value = 'Todos';
     document.getElementById('gender').value = 'Todos';
     document.getElementById('type').value = 'Todos';
+    document.getElementById('group').value = 'Todos';
     document.getElementById('profession').value = 'Todas';
     document.getElementById('hobby').value = 'Todos';
     document.getElementById('min-price').value = '';

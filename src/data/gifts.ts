@@ -1,7 +1,5 @@
-import giftsById from './gifts_by_sex.json';
-import giftsByAge from './gifts_by_age.json';
-import giftsByProfession from './gifts_by_profession.json';
-import giftsByHobby from './gifts_by_hobby.json';
+import giftsByHobby from './hobbies_por_grupo_urls_with_links.json';
+import giftsByProfession from './regalos_profesiones_500_with_links.json';
 
 export interface Gift {
   id: number;
@@ -17,170 +15,175 @@ export interface Gift {
   image: string;
   link?: string;
   source?: string;
+  group?: string;
 }
 
 // Helper function to format price from different sources
 function formatPrice(priceStr: string | number): number {
   if (typeof priceStr === 'number') return priceStr;
   if (typeof priceStr === 'string') {
-    // Remove currency symbols and convert to number
+    const lowerPrice = priceStr.toLowerCase();
+    if (lowerPrice.includes('bajo')) return 15000;
+    if (lowerPrice.includes('medio')) return 35000;
+    if (lowerPrice.includes('alto')) return 75000;
+    
+    // Try to extract number from string
     const cleanPrice = priceStr.replace(/[^\d]/g, '');
-    return parseInt(cleanPrice) || 25000; // Default price if parsing fails
+    return parseInt(cleanPrice) || 25000;
   }
   return 25000;
 }
 
 // Helper function to determine category from Spanish text
-function mapCategory(categoryText: string): string {
+function mapCategory(categoryText: string, hobby?: string): string {
   const categoryMap: { [key: string]: string } = {
-    'libro': 'Libros',
-    'deporte': 'Deportes', 
-    'tecnología': 'Tecnología',
-    'tecnologia': 'Tecnología',
+    // From hobby categories
+    'pesca': 'Deportes',
+    'ciclismo': 'Deportes', 
+    'gimnasio': 'Deportes',
+    'senderismo': 'Deportes',
+    'deportes': 'Deportes',
+    'videojuegos': 'Videojuegos',
+    'fotografía': 'Tecnología',
+    'fotografia': 'Tecnología',
+    'cocina': 'Hogar',
+    'carpintería': 'Herramientas',
+    'carpinteria': 'Herramientas',
+    'automodelismo': 'Juguetes',
+    'yoga': 'Deportes',
+    'pilates': 'Deportes',
+    'manualidades': 'Manualidades',
+    'jardinería': 'Jardinería',
+    'jardineria': 'Jardinería',
+    'lectura': 'Libros',
+    'repostería': 'Hogar',
+    'reposteria': 'Hogar',
+    'pintura': 'Arte',
+    'dibujo': 'Arte',
+    'baile': 'Entretenimiento',
+    'viajar': 'Viajes',
+    'música': 'Música',
+    'musica': 'Música',
+    'juegos': 'Juguetes',
+    'voluntariado': 'Experiencias',
+    'construcción': 'Juguetes',
+    'construccion': 'Juguetes',
+    'patinaje': 'Deportes',
+    'programación': 'Tecnología',
+    'programacion': 'Tecnología',
+    'astronomía': 'Ciencia',
+    'astronomia': 'Ciencia',
+    'mascotas': 'Mascotas',
+    'educación': 'Educación',
+    'educacion': 'Educación',
     'belleza': 'Belleza',
-    'audio': 'Tecnología',
-    'hogar': 'Hogar',
-    'joyería': 'Joyería',
-    'joyeria': 'Joyería',
-    'experiencia': 'Experiencias',
-    'tarjeta': 'Tarjetas Regalo',
-    'juguete': 'Juguetes',
-    'consola': 'Videojuegos',
-    'educativo': 'Juguetes',
-    'tableta': 'Tecnología',
-    'manualidades': 'Juguetes',
-    'eco-friendly': 'Hogar',
-    'gadget': 'Tecnología',
     'moda': 'Moda',
-    'accesorios': 'Moda'
+    'bienestar': 'Bienestar',
+    'decoración': 'Hogar',
+    'decoracion': 'Hogar',
+    'vintage': 'Coleccionables',
+    'retro': 'Coleccionables',
+    'cine': 'Entretenimiento',
+    'series': 'Entretenimiento',
+    'coleccionismo': 'Coleccionables',
+    'modelismo': 'Juguetes',
+    'crianza': 'Familia',
+    'tcg': 'Juegos',
+    'escritura': 'Libros',
+    'figuras': 'Coleccionables',
+    'k-pop': 'Música',
+    'kpop': 'Música'
   };
 
-  const lowerCategory = categoryText.toLowerCase();
+  const searchText = (categoryText + ' ' + (hobby || '')).toLowerCase();
+  
   for (const [key, value] of Object.entries(categoryMap)) {
-    if (lowerCategory.includes(key)) {
+    if (searchText.includes(key)) {
       return value;
     }
   }
+  
   return 'Otros';
 }
 
 // Helper function to determine type from category and description
-function mapType(category: string, description: string): Gift['type'] {
+function mapType(category: string, description: string, hobby?: string): Gift['type'] {
   const desc = description.toLowerCase();
   const cat = category.toLowerCase();
+  const hobbyText = (hobby || '').toLowerCase();
   
   if (desc.includes('personalizado') || desc.includes('3d')) return 'personalizado';
-  if (cat.includes('tecnología') || desc.includes('bluetooth') || desc.includes('digital')) return 'tecnológico';
-  if (cat.includes('deportes') || desc.includes('ejercicio') || desc.includes('fitness')) return 'deportivo';
-  if (cat.includes('hogar') || desc.includes('casa') || desc.includes('cocina')) return 'hogar';
+  if (cat.includes('tecnología') || desc.includes('bluetooth') || desc.includes('digital') || hobbyText.includes('programación')) return 'tecnológico';
+  if (cat.includes('deportes') || desc.includes('ejercicio') || desc.includes('fitness') || hobbyText.includes('gimnasio')) return 'deportivo';
+  if (cat.includes('hogar') || desc.includes('casa') || desc.includes('cocina') || hobbyText.includes('cocina')) return 'hogar';
   if (cat.includes('moda') || cat.includes('belleza') || desc.includes('ropa')) return 'moda';
-  if (cat.includes('experiencia') || desc.includes('experiencia') || desc.includes('spa')) return 'experiencia';
+  if (cat.includes('experiencia') || desc.includes('experiencia') || desc.includes('spa') || hobbyText.includes('voluntariado')) return 'experiencia';
   
   return 'artesanal';
 }
 
-// Helper function to map gender
-function mapGender(genderText: string): Gift['gender'] {
-  const lower = genderText.toLowerCase();
-  if (lower.includes('hombre') || lower === 'male' || lower === 'masculino') return 'masculino';
-  if (lower.includes('mujer') || lower === 'female' || lower === 'femenino') return 'femenino';
+// Helper function to map gender from group
+function mapGender(group: string): Gift['gender'] {
+  const lower = group.toLowerCase();
+  if (lower.includes('hombre') || lower === 'hombres') return 'masculino';
+  if (lower.includes('mujer') || lower === 'mujeres') return 'femenino';
   return 'unisex';
+}
+
+// Helper function to map age range from group
+function mapAgeRange(group: string): string {
+  const lower = group.toLowerCase();
+  if (lower.includes('niño') || lower.includes('niños')) return '6-16';
+  if (lower.includes('adolescent')) return '12-18';
+  if (lower.includes('adultos mayores')) return '55+';
+  if (lower.includes('adultos')) return '25-55';
+  return '18-65';
 }
 
 // Convert gifts from different JSON sources
 let giftId = 1;
 const allGifts: Gift[] = [];
 
-// Process gifts by sex
-Object.entries(giftsById).forEach(([gender, giftList]) => {
-  giftList.forEach((gift: any) => {
-    const mappedGift: Gift = {
-      id: giftId++,
-      name: gift.nombre || gift.name || 'Regalo sin nombre',
-      description: gift.descripcion || gift.description || 'Descripción no disponible',
-      price: formatPrice(gift.precio || gift.price || '25000'),
-      category: mapCategory(gift.categorias?.otros || gift.category || 'Otros'),
-      gender: mapGender(gender),
-      ageRange: '18-65',
-      type: mapType(gift.categorias?.otros || '', gift.descripcion || gift.description || ''),
-      image: gift.foto || gift.image || 'https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg?auto=compress&cs=tinysrgb&w=400',
-      link: gift.enlace || gift.link,
-      source: 'gifts_by_sex.json'
-    };
-    allGifts.push(mappedGift);
-  });
+// Process gifts by hobby (hobbies_por_grupo_urls_with_links.json)
+giftsByHobby.forEach((gift: any) => {
+  const mappedGift: Gift = {
+    id: giftId++,
+    name: gift['Regalo recomendado'] || 'Regalo sin nombre',
+    description: `${gift['Regalo recomendado']} - Perfecto para personas que disfrutan de ${gift.Hobby}. Precio estimado: ${gift['Precio estimado']}.`,
+    price: formatPrice(gift['Precio estimado']),
+    category: mapCategory(gift.Hobby, gift.Hobby),
+    gender: mapGender(gift.Grupo),
+    ageRange: mapAgeRange(gift.Grupo),
+    hobby: gift.Hobby,
+    type: mapType(gift.Hobby, gift['Regalo recomendado'], gift.Hobby),
+    image: gift.URL_Imagen || 'https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg?auto=compress&cs=tinysrgb&w=400',
+    link: gift.purchase_url,
+    source: 'hobbies_por_grupo_urls_with_links.json',
+    group: gift.Grupo
+  };
+  allGifts.push(mappedGift);
 });
 
-// Process gifts by age
-Object.entries(giftsByAge).forEach(([ageGroup, giftList]) => {
-  giftList.forEach((gift: any) => {
-    const ageRangeMap: { [key: string]: string } = {
-      'kids': '6-16',
-      'teens': '12-18', 
-      'adults': '25-55',
-      'seniors': '55+'
-    };
-
-    const mappedGift: Gift = {
-      id: giftId++,
-      name: gift.nombre || gift.name || 'Regalo sin nombre',
-      description: gift.descripcion || gift.description || 'Descripción no disponible',
-      price: formatPrice(gift.precio || gift.price || '35000'),
-      category: mapCategory(gift.categorias?.otros || gift.category || 'Otros'),
-      gender: mapGender(gift.categorias?.sexo || 'unisex'),
-      ageRange: ageRangeMap[ageGroup] || '18-65',
-      type: mapType(gift.categorias?.otros || '', gift.descripcion || gift.description || ''),
-      image: gift.foto || gift.image || 'https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg?auto=compress&cs=tinysrgb&w=400',
-      link: gift.enlace || gift.link,
-      source: 'gifts_by_age.json'
-    };
-    allGifts.push(mappedGift);
-  });
+// Process gifts by profession (regalos_profesiones_500_with_links.json)
+giftsByProfession.forEach((gift: any) => {
+  const mappedGift: Gift = {
+    id: giftId++,
+    name: gift.Producto || gift.producto || 'Regalo sin nombre',
+    description: gift.Descripción || gift.descripcion || gift.Descripcion || `Regalo ideal para ${gift.Profesión || gift.profesion}`,
+    price: formatPrice(gift.Precio || gift.precio || gift['Precio estimado'] || 'medio'),
+    category: mapCategory(gift.Categoría || gift.categoria || gift.Categoria || '', gift.Profesión),
+    gender: 'unisex',
+    ageRange: '25-55',
+    profession: gift.Profesión || gift.profesion,
+    type: mapType(gift.Categoría || gift.categoria || '', gift.Descripción || gift.descripcion || '', gift.Profesión),
+    image: gift.URL_Imagen || gift.url_imagen || gift.imagen || 'https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg?auto=compress&cs=tinysrgb&w=400',
+    link: gift.URL_Amazon || gift.url_amazon || gift.amazon_url || gift.purchase_url,
+    source: 'regalos_profesiones_500_with_links.json'
+  };
+  allGifts.push(mappedGift);
 });
 
-// Process gifts by profession
-Object.entries(giftsByProfession).forEach(([profession, giftList]) => {
-  giftList.forEach((gift: any) => {
-    const mappedGift: Gift = {
-      id: giftId++,
-      name: gift.name || 'Regalo sin nombre',
-      description: gift.description || 'Descripción no disponible',
-      price: formatPrice(gift.price || '45000'),
-      category: mapCategory(gift.categories?.hobby?.[0] || 'Otros'),
-      gender: mapGender(gift.categories?.sex?.[0] || 'unisex'),
-      ageRange: '25-55',
-      profession: profession,
-      type: mapType(gift.categories?.hobby?.[0] || '', gift.description || ''),
-      image: gift.image || 'https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg?auto=compress&cs=tinysrgb&w=400',
-      link: gift.link,
-      source: 'gifts_by_profession.json'
-    };
-    allGifts.push(mappedGift);
-  });
-});
-
-// Process gifts by hobby
-Object.entries(giftsByHobby).forEach(([hobby, giftList]) => {
-  giftList.forEach((gift: any) => {
-    const mappedGift: Gift = {
-      id: giftId++,
-      name: gift.name || 'Regalo sin nombre',
-      description: gift.description || 'Descripción no disponible',
-      price: formatPrice(gift.price || '40000'),
-      category: mapCategory(gift.categories?.hobby?.[0] || 'Otros'),
-      gender: mapGender(gift.categories?.sex?.[0] || 'unisex'),
-      ageRange: '18-45',
-      hobby: hobby,
-      type: mapType(gift.categories?.hobby?.[0] || '', gift.description || ''),
-      image: gift.image || 'https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg?auto=compress&cs=tinysrgb&w=400',
-      link: gift.link,
-      source: 'gifts_by_hobby.json'
-    };
-    allGifts.push(mappedGift);
-  });
-});
-
-// Add some personalized 3D gifts
+// Add some personalized 3D gifts from Sanjigen
 const personalizedGifts: Gift[] = [
   {
     id: giftId++,
@@ -266,27 +269,16 @@ allGifts.push(...personalizedGifts);
 
 export const gifts = allGifts;
 
+// Extract unique categories from the data
 export const categories = [
   "Todos",
-  "Tecnología",
-  "Deportes",
-  "Hogar",
-  "Moda",
-  "Belleza",
-  "Libros",
-  "Juguetes",
-  "Videojuegos",
-  "Joyería",
-  "Experiencias",
-  "Tarjetas Regalo",
-  "Personalizado",
-  "Otros"
+  ...Array.from(new Set(allGifts.map(gift => gift.category))).sort()
 ];
 
 export const genders = [
   "Todos",
   "masculino",
-  "femenino",
+  "femenino", 
   "unisex"
 ];
 
@@ -313,56 +305,47 @@ export const types = [
   "personalizado"
 ];
 
+// Extract unique professions from the data
 export const professions = [
   "Todas",
-  "tech_worker",
-  "teacher",
-  "healthcare_worker",
-  "artist",
-  "designer",
-  "engineer",
-  "chef"
+  ...Array.from(new Set(allGifts.filter(gift => gift.profession).map(gift => gift.profession!))).sort()
 ];
 
+// Extract unique hobbies from the data
 export const hobbies = [
   "Todos",
-  "cooking",
-  "music",
-  "sports",
-  "gardening",
-  "travel",
-  "photography",
-  "art",
-  "fitness",
-  "technology",
-  "reading"
+  ...Array.from(new Set(allGifts.filter(gift => gift.hobby).map(gift => gift.hobby!))).sort()
 ];
 
-// Fuentes de datos
+// Extract unique groups from the data
+export const groups = [
+  "Todos",
+  ...Array.from(new Set(allGifts.filter(gift => gift.group).map(gift => gift.group!))).sort()
+];
+
+// Data sources information
 export const dataSources = [
   {
-    name: "Regalos por Sexo",
-    file: "gifts_by_sex.json",
-    description: "Datos de regalos categorizados por género"
-  },
-  {
-    name: "Regalos por Edad",
-    file: "gifts_by_age.json", 
-    description: "Datos de regalos categorizados por grupos de edad"
-  },
-  {
-    name: "Regalos por Profesión",
-    file: "gifts_by_profession.json",
-    description: "Datos de regalos categorizados por profesión"
-  },
-  {
     name: "Regalos por Hobby",
-    file: "gifts_by_hobby.json",
-    description: "Datos de regalos categorizados por hobbies e intereses"
+    file: "hobbies_por_grupo_urls_with_links.json",
+    description: "Datos de regalos categorizados por hobbies y grupos demográficos",
+    count: giftsByHobby.length
+  },
+  {
+    name: "Regalos por Profesión", 
+    file: "regalos_profesiones_500_with_links.json",
+    description: "Datos de regalos categorizados por profesión",
+    count: giftsByProfession.length
   },
   {
     name: "Impresión 3D Sanjigen",
     file: "sanjigen_3d_printing",
-    description: "Regalos personalizados con impresión 3D de www.sanjigen.cl"
+    description: "Regalos personalizados con impresión 3D de www.sanjigen.cl",
+    count: personalizedGifts.length
   }
 ];
+
+console.log(`✅ Loaded ${allGifts.length} gifts from ${dataSources.length} sources`);
+console.log(`📊 Categories: ${categories.length - 1} unique categories`);
+console.log(`👥 Professions: ${professions.length - 1} unique professions`);
+console.log(`🎯 Hobbies: ${hobbies.length - 1} unique hobbies`);

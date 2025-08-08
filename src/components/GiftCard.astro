@@ -25,7 +25,7 @@ function formatPrice(price: number): string {
 }
 ---
 
-<div class="gift-card" data-category={gift.category} data-type={gift.type} data-profession={gift.profession || ''} data-hobby={gift.hobby || ''}>
+<div class="gift-card" data-category={gift.category} data-type={gift.type} data-profession={gift.profession || ''} data-hobby={gift.hobby || ''} data-group={gift.group || ''}>
   <div class="gift-image">
     <img src={gift.image} alt={gift.name} loading="lazy" />
     <div class="gift-overlay">
@@ -53,6 +53,9 @@ function formatPrice(price: number): string {
       )}
       {gift.hobby && (
         <span class="tag hobby-tag">{gift.hobby}</span>
+      )}
+      {gift.group && (
+        <span class="tag group-tag">{gift.group}</span>
       )}
     </div>
     
@@ -225,6 +228,11 @@ function formatPrice(price: number): string {
   .hobby-tag {
     background: rgba(241, 196, 15, 0.1);
     color: #f1c40f;
+  }
+
+  .group-tag {
+    background: rgba(142, 68, 173, 0.1);
+    color: #8e44ad;
   }
 
   .gift-actions {
