@@ -1,0 +1,250 @@
+{
+  "kids": [
+    {
+      "nombre": "Set de bloques LEGO",
+      "descripcion": "Los bloques de construcción LEGO fomentan la creatividad y las habilidades de resolución de problemas; son un favorito eterno entre los niños de todas las edades【237182829868402†L51-L58】.",
+      "enlace": "https://www.lego.com/es-es/collections/lego-sets",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Niños",
+        "sexo": "Unisex",
+        "hobbys": "Construcción, Creatividad",
+        "otros": "Juguete"
+      }
+    },
+    {
+      "nombre": "Nintendo Switch OLED",
+      "descripcion": "La consola Nintendo Switch OLED cuenta con una pantalla OLED de 7 pulgadas, audio mejorado y base con puerto LAN para disfrutar de juegos en casa o en cualquier lugar【237182829868402†L64-L71】.",
+      "enlace": "https://www.nintendo.es/Nintendo-Switch-OLED",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Niños",
+        "sexo": "Unisex",
+        "hobbys": "Videojuegos",
+        "otros": "Consola"
+      }
+    },
+    {
+      "nombre": "PlayStation 5",
+      "descripcion": "La consola PlayStation 5 ofrece tiempos de carga ultrarrápidos, gráficos impresionantes y el mando DualSense que proporciona una experiencia de juego inmersiva【237182829868402†L75-L82】.",
+      "enlace": "https://www.playstation.com/es-es/ps5",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Niños",
+        "sexo": "Unisex",
+        "hobbys": "Videojuegos",
+        "otros": "Consola"
+      }
+    },
+    {
+      "nombre": "Kit STEM de ciencia y robótica",
+      "descripcion": "Kits educativos que permiten explorar ciencia, tecnología, ingeniería y matemáticas a través de proyectos prácticos, motivando la curiosidad【237182829868402†L109-L116】.",
+      "enlace": "https://www.amazon.es/Kits-STEM-Ciencia",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Niños",
+        "sexo": "Unisex",
+        "hobbys": "Educación, Ciencia",
+        "otros": "Educativo"
+      }
+    },
+    {
+      "nombre": "Tablet Amazon Fire HD 10 Kids",
+      "descripcion": "Tableta diseñada para niños con pantalla Full HD de 10,1 pulgadas, controles parentales y funda resistente; incluye un año de suscripción a Amazon Kids+【237182829868402†L120-L128】.",
+      "enlace": "https://www.amazon.es/Fire-HD-10-Kids",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Niños",
+        "sexo": "Unisex",
+        "hobbys": "Educación, Entretenimiento",
+        "otros": "Tableta"
+      }
+    }
+  ],
+  "teens": [
+    {
+      "nombre": "Consola de videojuegos",
+      "descripcion": "Una consola moderna como PlayStation o Xbox ofrece una amplia biblioteca de títulos emocionantes y es un regalo ideal para adolescentes【984392686256040†L74-L80】.",
+      "enlace": "https://www.playstation.com/es-es/ps5",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Adolescentes",
+        "sexo": "Unisex",
+        "hobbys": "Videojuegos",
+        "otros": "Consola"
+      }
+    },
+    {
+      "nombre": "Auriculares inalámbricos",
+      "descripcion": "Auriculares Bluetooth de calidad con cancelación de ruido para disfrutar de música y podcasts sin cables【984392686256040†L93-L98】.",
+      "enlace": "https://www.amazon.es/Audifonos-Inalambricos",
+      "foto": "gift_images/wireless_headphones.png",
+      "categorias": {
+        "edad": "Adolescentes",
+        "sexo": "Unisex",
+        "hobbys": "Música, Tecnología",
+        "otros": "Audio"
+      }
+    },
+    {
+      "nombre": "Set de arte y dibujo",
+      "descripcion": "Conjunto de lápices, acuarelas y pinceles de alta calidad que inspira la creatividad y el desarrollo artístico【984392686256040†L102-L107】.",
+      "enlace": "https://www.amazon.es/Set-Arte-Dibujo",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Adolescentes",
+        "sexo": "Unisex",
+        "hobbys": "Arte, Creatividad",
+        "otros": "Manualidades"
+      }
+    },
+    {
+      "nombre": "Bicicleta de montaña",
+      "descripcion": "Bicicleta adecuada a la altura del adolescente que fomenta un estilo de vida activo y la exploración al aire libre【984392686256040†L109-L114】.",
+      "enlace": "https://www.amazon.es/Bicicleta-Montana-Juvenil",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Adolescentes",
+        "sexo": "Unisex",
+        "hobbys": "Deporte, Aventura",
+        "otros": "Deporte"
+      }
+    },
+    {
+      "nombre": "Cámara instantánea",
+      "descripcion": "Cámara instantánea que permite capturar momentos especiales y crear recuerdos tangibles al instante【984392686256040†L154-L158】.",
+      "enlace": "https://www.amazon.es/Camara-Instantanea-Instax",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Adolescentes",
+        "sexo": "Unisex",
+        "hobbys": "Fotografía, Amistades",
+        "otros": "Tecnología"
+      }
+    }
+  ],
+  "adults": [
+    {
+      "nombre": "Set de regalo para baño o spa",
+      "descripcion": "Paquete de productos variados para baño, fragancias y accesorios, ideal para consentir a cualquier adulto; los sets de regalo son muy buscados en época navideña【806818789242730†L389-L424】.",
+      "enlace": "https://www.falabella.com/falabella-cl/search?Ntt=set%20spa",
+      "foto": "gift_images/spa_set.png",
+      "categorias": {
+        "edad": "Adultos",
+        "sexo": "Unisex",
+        "hobbys": "Bienestar, Relax",
+        "otros": "Set de regalo"
+      }
+    },
+    {
+      "nombre": "Audífonos inalámbricos",
+      "descripcion": "Audífonos Bluetooth con cancelación de ruido, ideales para trabajar, viajar o hacer deporte; este producto tuvo un aumento de 328 % en búsquedas navideñas en Chile【806818789242730†L389-L424】.",
+      "enlace": "https://www.amazon.es/Audifonos-inalambricos-cancelacion",
+      "foto": "gift_images/wireless_headphones.png",
+      "categorias": {
+        "edad": "Adultos",
+        "sexo": "Unisex",
+        "hobbys": "Música, Viajes",
+        "otros": "Tecnología"
+      }
+    },
+    {
+      "nombre": "Cafetera o máquina de espresso",
+      "descripcion": "Máquina para preparar café de forma rápida y sencilla; las cafeteras estuvieron entre los regalos más buscados en Chile durante la última temporada【806818789242730†L389-L424】.",
+      "enlace": "https://www.amazon.es/Cafetera-Espresso",
+      "foto": "gift_images/coffee_maker.png",
+      "categorias": {
+        "edad": "Adultos",
+        "sexo": "Unisex",
+        "hobbys": "Café, Cocina",
+        "otros": "Hogar"
+      }
+    },
+    {
+      "nombre": "Reloj inteligente para fitness",
+      "descripcion": "Reloj con funciones inteligentes y seguimiento de actividad, popular entre adultos que desean mantenerse activos【806818789242730†L389-L424】.",
+      "enlace": "https://www.amazon.es/Reloj-Inteligente-Fitness",
+      "foto": "gift_images/smartwatch.png",
+      "categorias": {
+        "edad": "Adultos",
+        "sexo": "Unisex",
+        "hobbys": "Fitness, Salud",
+        "otros": "Tecnología"
+      }
+    },
+    {
+      "nombre": "Suscripción a experiencia o caja mensual",
+      "descripcion": "Suscripción mensual a experiencias culinarias, clases de yoga o cajas gourmet; los consumidores están gastando cada vez más en experiencias y suscripciones personalizadas【615819600888409†L245-L268】.",
+      "enlace": "https://www.cratejoy.com/collection/subscription-boxes",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Adultos",
+        "sexo": "Unisex",
+        "hobbys": "Gourmet, Fitness, Aventura",
+        "otros": "Experiencia"
+      }
+    }
+  ],
+  "seniors": [
+    {
+      "nombre": "Cargador solar de 20 000 mAh",
+      "descripcion": "Banco de energía solar de alta capacidad para mantener cargados teléfonos y dispositivos; aparece entre los regalos destacados para mayores de 70 años【423663999822386†L201-L204】.",
+      "enlace": "https://www.curiosite.es/producto/cargador-solar-20000-mah",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Mayores",
+        "sexo": "Unisex",
+        "hobbys": "Tecnología, Viajes",
+        "otros": "Práctico"
+      }
+    },
+    {
+      "nombre": "Bola de cristal luminosa",
+      "descripcion": "Esfera de cristal con luz interior que crea un efecto decorativo y relajante; sugerida como regalo original para mayores de 70 años【423663999822386†L203-L206】.",
+      "enlace": "https://www.curiosite.es/producto/bola-cristal-luminosa",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Mayores",
+        "sexo": "Unisex",
+        "hobbys": "Decoración",
+        "otros": "Hogar"
+      }
+    },
+    {
+      "nombre": "Juego de tazas Coffee Colors",
+      "descripcion": "Set de cuatro tazas de café con colores variados, ideal para disfrutar de una bebida caliente en compañía【423663999822386†L208-L210】.",
+      "enlace": "https://www.curiosite.es/producto/coffee-colors-tazas",
+      "foto": "gift_images/coffee_maker.png",
+      "categorias": {
+        "edad": "Mayores",
+        "sexo": "Unisex",
+        "hobbys": "Café, Cocina",
+        "otros": "Hogar"
+      }
+    },
+    {
+      "nombre": "Estación de propagación Hydra para 5 plantas",
+      "descripcion": "Dispositivo decorativo que permite propagar hasta cinco plantas en agua; recomendada como regalo para mayores aficionados a la jardinería【423663999822386†L211-L213】.",
+      "enlace": "https://www.curiosite.es/producto/hydra-propagacion-plantas",
+      "foto": "gift_images/terrarium_kit.png",
+      "categorias": {
+        "edad": "Mayores",
+        "sexo": "Unisex",
+        "hobbys": "Jardinería, Decoración",
+        "otros": "Eco-friendly"
+      }
+    },
+    {
+      "nombre": "Hoverpen 2.0: bolígrafo flotante",
+      "descripcion": "Bolígrafo con sistema magnético que se mantiene suspendido en el aire; original e ideal para personas que disfrutan de los objetos curiosos【423663999822386†L214-L215】.",
+      "enlace": "https://www.curiosite.es/producto/hoverpen-2-0",
+      "foto": "placeholder_light_gray_block.png",
+      "categorias": {
+        "edad": "Mayores",
+        "sexo": "Unisex",
+        "hobbys": "Escritura, Curiosidades",
+        "otros": "Gadget"
+      }
+    }
+  ]
+}
