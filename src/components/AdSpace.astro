@@ -2,88 +2,44 @@
 export interface Props {
   size: 'banner' | 'sidebar' | 'square' | 'mobile';
   position?: string;
+  slot?: string;
 }
 
-const { size, position = '' } = Astro.props;
+const { size, position = '', slot } = Astro.props;
 
 const adSizes = {
-  banner: { width: '728px', height: '90px' },
-  sidebar: { width: '300px', height: '250px' },
-  square: { width: '250px', height: '250px' },
-  mobile: { width: '320px', height: '50px' }
+  banner: { width: '728', height: '90', slot: slot || '1234567890' },
+  sidebar: { width: '300', height: '250', slot: slot || '2345678901' },
+  square: { width: '250', height: '250', slot: slot || '3456789012' },
+  mobile: { width: '320', height: '50', slot: slot || '4567890123' }
 };
 
 const currentSize = adSizes[size];
 ---
 
-<div class={`ad-space ad-${size} ${position}`} style={`width: ${currentSize.width}; height: ${currentSize.height};`}>
-  <div class="ad-placeholder">
-    <div class="ad-icon">📢</div>
-    <div class="ad-text">
-      <span class="ad-label">Publicidad</span>
-      <span class="ad-size">{currentSize.width} x {currentSize.height}</span>
-    </div>
-    <div class="ad-note">Espacio reservado para Google Ads</div>
-  </div>
+<div class={`ad-space ad-${size} ${position}`} style={`width: ${currentSize.width}px; height: ${currentSize.height}px;`}>
+  <ins class="adsbygoogle"
+       style={`display:inline-block;width:${currentSize.width}px;height:${currentSize.height}px`}
+       data-ad-client="ca-pub-8812485670771278"
+       data-ad-slot={currentSize.slot}
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
 </div>
 
 <style>
   .ad-space {
     margin: 20px auto;
-    border: 2px dashed #bdc3c7;
     border-radius: 10px;
-    background: linear-gradient(45deg, #f8f9fa 25%, transparent 25%), 
-                linear-gradient(-45deg, #f8f9fa 25%, transparent 25%), 
-                linear-gradient(45deg, transparent 75%, #f8f9fa 75%), 
-                linear-gradient(-45deg, transparent 75%, #f8f9fa 75%);
-    background-size: 20px 20px;
-    background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
     position: relative;
     overflow: hidden;
-  }
-
-  .ad-placeholder {
+    background: #f8f9fa;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100%;
-    padding: 15px;
-    text-align: center;
-    background: rgba(255, 255, 255, 0.9);
-    border-radius: 8px;
-    margin: 5px;
-    height: calc(100% - 10px);
   }
 
-  .ad-icon {
-    font-size: 2rem;
-    margin-bottom: 10px;
-    opacity: 0.7;
-  }
-
-  .ad-text {
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-  }
-
-  .ad-label {
-    font-weight: bold;
-    color: #2c3e50;
-    font-size: 14px;
-  }
-
-  .ad-size {
-    color: #7f8c8d;
-    font-size: 12px;
-  }
-
-  .ad-note {
-    color: #95a5a6;
-    font-size: 10px;
-    margin-top: 8px;
-    font-style: italic;
+  .adsbygoogle {
+    background: transparent;
   }
 
   /* Specific styles for different ad sizes */
@@ -143,18 +99,38 @@ const currentSize = adSizes[size];
     top: 100px;
   }
 
-  /* Hover effect */
-  .ad-space:hover {
-    border-color: #3498db;
-    background-color: rgba(52, 152, 219, 0.05);
-  }
-
-  .ad-space:hover .ad-placeholder {
-    background: rgba(52, 152, 219, 0.1);
-  }
-
-  .ad-space:hover .ad-icon {
-    transform: scale(1.1);
-    transition: transform 0.3s ease;
+  /* Loading state */
+  .ad-space:empty::before {
+    content: "Cargando anuncio...";
+    color: #7f8c8d;
+    font-size: 14px;
+    opacity: 0.7;
   }
 </style>
+
+<script>
+  // Initialize AdSense ads
+  document.addEventListener('DOMContentLoaded', function() {
+    try {
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    } catch (e) {
+      console.log('AdSense not loaded yet');
+    }
+  });
+
+  // Push ads when component loads
+  if (typeof window !== 'undefined') {
+    window.addEventListener('load', function() {
+      try {
+        const ads = document.querySelectorAll('.adsbygoogle');
+        ads.forEach(ad => {
+          if (!ad.dataset.adsbygoogleStatus) {
+            (adsbygoogle = window.adsbygoogle || []).push({});
+          }
+        });
+      } catch (e) {
+        console.log('AdSense initialization error:', e);
+      }
+    });
+  }
+</script>
