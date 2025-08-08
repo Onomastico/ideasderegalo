@@ -1,0 +1,353 @@
+---
+import { categories, genders, ageRanges, types, professions, hobbies } from '../data/gifts.ts';
+---
+
+<div class="filter-panel" id="filter-panel">
+  <div class="filter-header">
+    <h3>🔍 Filtros de Búsqueda</h3>
+    <button class="filter-toggle" id="filter-toggle">
+      <span class="toggle-icon">▼</span>
+    </button>
+  </div>
+
+  <div class="filter-content" id="filter-content">
+    <div class="filter-group">
+      <label for="search">Buscar por nombre:</label>
+      <input type="text" id="search" placeholder="Ej: auriculares, reloj..." class="filter-input">
+    </div>
+
+    <div class="filter-group">
+      <label for="category">Categoría:</label>
+      <select id="category" class="filter-select">
+        {categories.map(category => (
+          <option value={category}>{category}</option>
+        ))}
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="gender">Género:</label>
+      <select id="gender" class="filter-select">
+        {genders.map(gender => (
+          <option value={gender}>{gender === 'Todos' ? 'Todos' : gender.charAt(0).toUpperCase() + gender.slice(1)}</option>
+        ))}
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="type">Tipo de regalo:</label>
+      <select id="type" class="filter-select">
+        {types.map(type => (
+          <option value={type}>{type === 'Todos' ? 'Todos' : type.charAt(0).toUpperCase() + type.slice(1)}</option>
+        ))}
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="profession">Profesión:</label>
+      <select id="profession" class="filter-select">
+        {professions.map(profession => (
+          <option value={profession}>{profession === 'Todas' ? 'Todas' : profession.charAt(0).toUpperCase() + profession.slice(1)}</option>
+        ))}
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="hobby">Hobby:</label>
+      <select id="hobby" class="filter-select">
+        {hobbies.map(hobby => (
+          <option value={hobby}>{hobby === 'Todos' ? 'Todos' : hobby.charAt(0).toUpperCase() + hobby.slice(1)}</option>
+        ))}
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="price-range">Rango de precio:</label>
+      <div class="price-inputs">
+        <input type="number" id="min-price" placeholder="Mín" class="price-input">
+        <span>-</span>
+        <input type="number" id="max-price" placeholder="Máx" class="price-input">
+      </div>
+    </div>
+
+    <div class="filter-group">
+      <label for="sort">Ordenar por:</label>
+      <select id="sort" class="filter-select">
+        <option value="name-asc">Nombre (A-Z)</option>
+        <option value="name-desc">Nombre (Z-A)</option>
+        <option value="price-asc">Precio (Menor a Mayor)</option>
+        <option value="price-desc">Precio (Mayor a Menor)</option>
+        <option value="category">Categoría</option>
+      </select>
+    </div>
+
+    <div class="filter-actions">
+      <button class="btn btn-primary" id="apply-filters">Aplicar Filtros</button>
+      <button class="btn btn-secondary" id="clear-filters">Limpiar</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .filter-panel {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+
+  .filter-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .filter-header h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .filter-toggle {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: transform 0.3s ease;
+  }
+
+  .filter-toggle.active .toggle-icon {
+    transform: rotate(180deg);
+  }
+
+  .filter-content {
+    padding: 25px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.3s ease;
+  }
+
+  .filter-content.active {
+    max-height: 1000px;
+    padding: 25px;
+  }
+
+  .filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .filter-group label {
+    font-weight: bold;
+    color: #2c3e50;
+    font-size: 14px;
+  }
+
+  .filter-input,
+  .filter-select,
+  .price-input {
+    padding: 12px;
+    border: 2px solid #ecf0f1;
+    border-radius: 10px;
+    font-size: 14px;
+    transition: all 0.3s ease;
+    background: white;
+  }
+
+  .filter-input:focus,
+  .filter-select:focus,
+  .price-input:focus {
+    outline: none;
+    border-color: #3498db;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+  }
+
+  .price-inputs {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .price-input {
+    flex: 1;
+  }
+
+  .filter-actions {
+    grid-column: 1 / -1;
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+    justify-content: center;
+  }
+
+  .btn {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 14px;
+    min-width: 120px;
+  }
+
+  .btn-primary {
+    background: linear-gradient(45deg, #3498db, #2980b9);
+    color: white;
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+  }
+
+  .btn-secondary {
+    background: linear-gradient(45deg, #95a5a6, #7f8c8d);
+    color: white;
+  }
+
+  .btn-secondary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(149, 165, 166, 0.4);
+  }
+
+  @media screen and (max-width: 768px) {
+    .filter-content {
+      grid-template-columns: 1fr;
+    }
+
+    .filter-actions {
+      flex-direction: column;
+    }
+
+    .filter-header {
+      padding: 15px;
+    }
+
+    .filter-content.active {
+      padding: 20px;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const filterToggle = document.getElementById('filter-toggle');
+    const filterContent = document.getElementById('filter-content');
+    const applyFiltersBtn = document.getElementById('apply-filters');
+    const clearFiltersBtn = document.getElementById('clear-filters');
+
+    // Toggle filter panel
+    if (filterToggle && filterContent) {
+      filterToggle.addEventListener('click', function() {
+        filterContent.classList.toggle('active');
+        filterToggle.classList.toggle('active');
+      });
+
+      // Open filters by default on desktop
+      if (window.innerWidth > 768) {
+        filterContent.classList.add('active');
+        filterToggle.classList.add('active');
+      }
+    }
+
+    // Apply filters
+    if (applyFiltersBtn) {
+      applyFiltersBtn.addEventListener('click', function() {
+        applyFilters();
+      });
+    }
+
+    // Clear filters
+    if (clearFiltersBtn) {
+      clearFiltersBtn.addEventListener('click', function() {
+        clearAllFilters();
+      });
+    }
+
+    // Real-time search
+    const searchInput = document.getElementById('search');
+    if (searchInput) {
+      searchInput.addEventListener('input', function() {
+        applyFilters();
+      });
+    }
+
+    // Real-time filter changes
+    const filterSelects = document.querySelectorAll('.filter-select');
+    filterSelects.forEach(select => {
+      select.addEventListener('change', function() {
+        applyFilters();
+      });
+    });
+
+    // Price range filters
+    const minPriceInput = document.getElementById('min-price');
+    const maxPriceInput = document.getElementById('max-price');
+    
+    if (minPriceInput && maxPriceInput) {
+      minPriceInput.addEventListener('input', function() {
+        applyFilters();
+      });
+      
+      maxPriceInput.addEventListener('input', function() {
+        applyFilters();
+      });
+    }
+  });
+
+  function applyFilters() {
+    const search = document.getElementById('search')?.value.toLowerCase() || '';
+    const category = document.getElementById('category')?.value || 'Todos';
+    const gender = document.getElementById('gender')?.value || 'Todos';
+    const type = document.getElementById('type')?.value || 'Todos';
+    const profession = document.getElementById('profession')?.value || 'Todas';
+    const hobby = document.getElementById('hobby')?.value || 'Todos';
+    const minPrice = parseInt(document.getElementById('min-price')?.value) || 0;
+    const maxPrice = parseInt(document.getElementById('max-price')?.value) || Infinity;
+    const sort = document.getElementById('sort')?.value || 'name-asc';
+
+    // Dispatch custom event with filter data
+    const filterEvent = new CustomEvent('filtersChanged', {
+      detail: {
+        search,
+        category,
+        gender,
+        type,
+        profession,
+        hobby,
+        minPrice,
+        maxPrice,
+        sort
+      }
+    });
+    
+    document.dispatchEvent(filterEvent);
+  }
+
+  function clearAllFilters() {
+    document.getElementById('search').value = '';
+    document.getElementById('category').value = 'Todos';
+    document.getElementById('gender').value = 'Todos';
+    document.getElementById('type').value = 'Todos';
+    document.getElementById('profession').value = 'Todas';
+    document.getElementById('hobby').value = 'Todos';
+    document.getElementById('min-price').value = '';
+    document.getElementById('max-price').value = '';
+    document.getElementById('sort').value = 'name-asc';
+    
+    applyFilters();
+  }
+</script>

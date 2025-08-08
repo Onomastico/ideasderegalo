@@ -1,0 +1,160 @@
+---
+export interface Props {
+  size: 'banner' | 'sidebar' | 'square' | 'mobile';
+  position?: string;
+}
+
+const { size, position = '' } = Astro.props;
+
+const adSizes = {
+  banner: { width: '728px', height: '90px' },
+  sidebar: { width: '300px', height: '250px' },
+  square: { width: '250px', height: '250px' },
+  mobile: { width: '320px', height: '50px' }
+};
+
+const currentSize = adSizes[size];
+---
+
+<div class={`ad-space ad-${size} ${position}`} style={`width: ${currentSize.width}; height: ${currentSize.height};`}>
+  <div class="ad-placeholder">
+    <div class="ad-icon">📢</div>
+    <div class="ad-text">
+      <span class="ad-label">Publicidad</span>
+      <span class="ad-size">{currentSize.width} x {currentSize.height}</span>
+    </div>
+    <div class="ad-note">Espacio reservado para Google Ads</div>
+  </div>
+</div>
+
+<style>
+  .ad-space {
+    margin: 20px auto;
+    border: 2px dashed #bdc3c7;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #f8f9fa 25%, transparent 25%), 
+                linear-gradient(-45deg, #f8f9fa 25%, transparent 25%), 
+                linear-gradient(45deg, transparent 75%, #f8f9fa 75%), 
+                linear-gradient(-45deg, transparent 75%, #f8f9fa 75%);
+    background-size: 20px 20px;
+    background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .ad-placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 15px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    margin: 5px;
+    height: calc(100% - 10px);
+  }
+
+  .ad-icon {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    opacity: 0.7;
+  }
+
+  .ad-text {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .ad-label {
+    font-weight: bold;
+    color: #2c3e50;
+    font-size: 14px;
+  }
+
+  .ad-size {
+    color: #7f8c8d;
+    font-size: 12px;
+  }
+
+  .ad-note {
+    color: #95a5a6;
+    font-size: 10px;
+    margin-top: 8px;
+    font-style: italic;
+  }
+
+  /* Specific styles for different ad sizes */
+  .ad-banner {
+    max-width: 100%;
+    margin: 30px auto;
+  }
+
+  .ad-sidebar {
+    margin: 20px 0;
+  }
+
+  .ad-square {
+    margin: 15px auto;
+  }
+
+  .ad-mobile {
+    display: none;
+    margin: 15px auto;
+  }
+
+  /* Responsive behavior */
+  @media screen and (max-width: 768px) {
+    .ad-banner {
+      display: none;
+    }
+
+    .ad-mobile {
+      display: block;
+    }
+
+    .ad-sidebar {
+      width: 100% !important;
+      max-width: 300px;
+      margin: 20px auto;
+    }
+
+    .ad-square {
+      width: 100% !important;
+      max-width: 250px;
+    }
+  }
+
+  /* Position-specific styles */
+  .top {
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+
+  .bottom {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
+  .sticky-sidebar {
+    position: sticky;
+    top: 100px;
+  }
+
+  /* Hover effect */
+  .ad-space:hover {
+    border-color: #3498db;
+    background-color: rgba(52, 152, 219, 0.05);
+  }
+
+  .ad-space:hover .ad-placeholder {
+    background: rgba(52, 152, 219, 0.1);
+  }
+
+  .ad-space:hover .ad-icon {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+  }
+</style>
