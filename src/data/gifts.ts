@@ -480,7 +480,7 @@ const personalizedGifts: Gift[] = [
     gender: "unisex",
     ageRange: "16-65",
     type: "personalizado",
-    image: "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "https://img-new.cgtrader.com/items/3654014/8f427bf029/large/leonberger-dog-figurine-3d-model-8f427bf029.jpg",
     link: "https://www.sanjigen.cl",
     source: "Sanjigen 3D Printing"
   },
