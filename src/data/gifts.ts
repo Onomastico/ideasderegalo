@@ -506,7 +506,7 @@ const personalizedGifts: Gift[] = [
     gender: "unisex",
     ageRange: "16-65",
     type: "personalizado",
-    image: "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "https://res.cloudinary.com/dsvtg3khr/image/upload/v1751250016/IMG_20250629_183242_x99vx0.jpg",
     link: "https://www.sanjigen.cl",
     source: "Sanjigen 3D Printing"
   },
@@ -514,7 +514,7 @@ const personalizedGifts: Gift[] = [
     id: giftId++,
     name: "Joyería 3D Personalizada",
     description: "Piezas de joyería únicas impresas en 3D: anillos, colgantes, pulseras con diseños completamente personalizados.",
-    price: 55000,
+    price: 5000,
     category: "Personalizado",
     gender: "unisex",
     ageRange: "18-65",
