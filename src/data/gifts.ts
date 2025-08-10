@@ -454,7 +454,7 @@ const personalizedGifts: Gift[] = [
     gender: "unisex",
     ageRange: "16-65",
     type: "personalizado",
-    image: "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "https://res.cloudinary.com/dsvtg3khr/image/upload/v1751943463/Imagen_de_WhatsApp_2025-07-03_a_las_12.13.38_74fed3e7_w27chn.jpg",
     link: "https://www.sanjigen.cl",
     source: "Sanjigen 3D Printing"
   },
